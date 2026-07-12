@@ -1,0 +1,274 @@
+{
+  "_meta": {
+    "title": "India AQI / Air Pollution Complaint Contact Directory",
+    "purpose": "Contacts to report rising AQI / air pollution in an Indian city, organized by authority level.",
+    "last_verified": "2026-07-10",
+    "how_to_use": "1) Look up the state your city is in under 'state_pollution_control_boards' - this is the primary authority for air quality complaints in India. 2) Also check 'municipal_corporations' for your city if the issue is local (construction dust, garbage burning, road dust). 3) CPCB (national) accepts complaints too, especially via the SAMEER app, and coordinates across states.",
+    "important_notes": [
+      "SPCBs (State Pollution Control Boards), not municipal corporations, are the statutory authority for air pollution complaints under the Air (Prevention & Control of Pollution) Act, 1981.",
+      "Many Indian municipal corporations do NOT publish a public complaint email - they use dedicated apps, web portals, or toll-free numbers instead (e.g. MCD311 app, BBMP Sahaaya, BMC's 1916 helpline). Where no email exists, this file says so explicitly instead of fabricating one.",
+      "Government email addresses and portals change periodically. Emails below were confirmed live on official .gov.in/.nic.in sites as of the date above, but verify against the linked website if a message bounces.",
+      "For states/UTs not individually verified in this file, CPCB maintains a live official directory of all SPCBs/PCCs at https://cpcb.nic.in/spcbs-pccs/ (PDF: 'Directory of State Pollution Control Boards/Pollution Control Committees')."
+    ]
+  },
+
+  "national_bodies": [
+    {
+      "name": "Central Pollution Control Board",
+      "acronym": "CPCB",
+      "ministry": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+      "website": "https://cpcb.nic.in",
+      "email": {
+        "chairman_office": "ccb.cpcb@nic.in",
+        "member_secretary_office": "mscb.cpcb@nic.in"
+      },
+      "phone": "+91-11-43102030",
+      "complaint_app": "SAMEER App (Android/iOS) - for air pollution complaints incl. road dust, open burning, DG sets",
+      "national_aqi_dashboard": "https://airquality.cpcb.gov.in/AQI_India/",
+      "online_complaint_form": "https://cpcb.nic.in/query-form1.php",
+      "notes": "Apex national body; coordinates all SPCBs and handles inter-state pollution issues."
+    },
+    {
+      "name": "Commission for Air Quality Management in NCR and Adjoining Areas",
+      "acronym": "CAQM",
+      "jurisdiction": "Delhi-NCR (Delhi, parts of Haryana, UP, Rajasthan)",
+      "website": "https://caqm.nic.in",
+      "notes": "Statutory body specifically for Delhi-NCR air quality; escalation point when SPCB/DPCC response is inadequate in NCR."
+    }
+  ],
+
+  "state_pollution_control_boards": [
+    {
+      "state_ut": "Delhi",
+      "board_name": "Delhi Pollution Control Committee",
+      "acronym": "DPCC",
+      "website": "https://dpcc.delhi.gov.in",
+      "email": "chdpcc@nic.in",
+      "phone": "011-23392108",
+      "complaint_app": "Green Delhi App",
+      "verified": true
+    },
+    {
+      "state_ut": "Maharashtra",
+      "board_name": "Maharashtra Pollution Control Board",
+      "acronym": "MPCB",
+      "website": "https://mpcb.gov.in",
+      "email": null,
+      "phone": "022-67808888",
+      "complaint_app": "MPCB e-Catalyst App (no general public complaint email published; app/phone is the official channel)",
+      "verified": true
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "board_name": "Uttar Pradesh Pollution Control Board",
+      "acronym": "UPPCB",
+      "website": "https://uppcb.up.gov.in",
+      "email": "uppcb@uppcb.com",
+      "toll_free": "1800-180-5455",
+      "verified": true
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "board_name": "Tamil Nadu Pollution Control Board",
+      "acronym": "TNPCB",
+      "website": "https://tnpcb.gov.in",
+      "email": {
+        "pollution_complaints": "complaint@tnpcb.gov.in",
+        "grievance": "grievance@tnpcb.gov.in"
+      },
+      "toll_free": "1800-425-6750",
+      "phone": "044-22353134",
+      "verified": true
+    },
+    {
+      "state_ut": "Karnataka",
+      "board_name": "Karnataka State Pollution Control Board",
+      "acronym": "KSPCB",
+      "website": "https://kspcb.karnataka.gov.in",
+      "email": {
+        "head_office": "ho@kspcb.gov.in",
+        "control_room_iccc": "iccc.kspcb@gmail.com",
+        "chairman": "chairman@kspcb.gov.in",
+        "member_secretary": "memsecy@kspcb.gov.in"
+      },
+      "phone_control_room": "080-25582559",
+      "verified": true
+    },
+    {
+      "state_ut": "West Bengal",
+      "board_name": "West Bengal Pollution Control Board",
+      "acronym": "WBPCB",
+      "website": "https://www.wbpcb.gov.in",
+      "email": "wbpcbnet@wbpcb.gov.in",
+      "toll_free": "1800-345-3390",
+      "complaint_app": "Paribesh App",
+      "verified": true
+    },
+    {
+      "state_ut": "Gujarat",
+      "board_name": "Gujarat Pollution Control Board",
+      "acronym": "GPCB",
+      "website": "https://gpcb.gujarat.gov.in",
+      "email": {
+        "chairman": "chairman-gpcb@gujarat.gov.in",
+        "chairman_alt": "gpcbchairman@gmail.com"
+      },
+      "phone": "079-23232152",
+      "verified": true
+    },
+    {
+      "state_ut": "Rajasthan",
+      "board_name": "Rajasthan State Pollution Control Board",
+      "acronym": "RPCB",
+      "website": "https://environment.rajasthan.gov.in",
+      "email": {
+        "member_secretary": "member-secretary@rpcb.nic.in",
+        "chairperson": "chairperson@rpcb.nic.in"
+      },
+      "toll_free": "1800-180-6127",
+      "verified": true
+    },
+    {
+      "state_ut": "Punjab",
+      "board_name": "Punjab Pollution Control Board",
+      "acronym": "PPCB",
+      "website": "https://ppcb.punjab.gov.in",
+      "email": {
+        "complaint_cell": "ppcbcomplaintcell@gmail.com",
+        "member_secretary": "msppcb@punjab.gov.in"
+      },
+      "phone": "9878950593",
+      "verified": true
+    },
+    {
+      "state_ut": "Haryana",
+      "board_name": "Haryana State Pollution Control Board",
+      "acronym": "HSPCB",
+      "website": "https://hspcb.org.in",
+      "email": "hqhspcb@hspcb.org.in",
+      "phone": "0172-2577872",
+      "verified": true
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "board_name": "Madhya Pradesh Pollution Control Board",
+      "acronym": "MPPCB",
+      "website": "https://mppcb.mp.gov.in",
+      "email": {
+        "chairman": "chairman-mppcb@mp.gov.in",
+        "member_secretary": "ms-mppcb@mp.gov.in"
+      },
+      "phone": "0755-2708113",
+      "verified": true
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "board_name": "Chhattisgarh Environment Conservation Board",
+      "acronym": "CECB",
+      "website": null,
+      "email": {
+        "head_of_office": "henv.cg@nic.in",
+        "alt": "hocecb@gmail.com"
+      },
+      "phone": "0771-2510266",
+      "verified": true
+    },
+    {
+      "state_ut": "Goa",
+      "board_name": "Goa State Pollution Control Board",
+      "acronym": "GSPCB",
+      "website": null,
+      "email": {
+        "chairman": "chairman-gspcb.goa@nic.in",
+        "member_secretary": "ms-gspcb.goa@nic.in",
+        "general": "mail.gspcb@gov.in"
+      },
+      "phone": "0832-2407700",
+      "verified": true
+    },
+    {
+      "state_ut": "Telangana",
+      "board_name": "Telangana State Pollution Control Board",
+      "acronym": "TSPCB",
+      "website": "https://tspcb.cgg.gov.in",
+      "email": "tscbipmp@gmail.com",
+      "toll_free": "10741",
+      "verified": "partial - toll-free confirmed, email confidence lower; verify on website before relying on it"
+    }
+  ],
+
+  "states_not_individually_verified": {
+    "note": "No public complaint email could be confirmed live in this session for these states/UTs. Do not guess an address - use the official CPCB directory link below, or ask to have a specific one looked up.",
+    "cpcb_master_directory": "https://cpcb.nic.in/spcbs-pccs/",
+    "states_ut_list": [
+      "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Himachal Pradesh",
+      "Jharkhand", "Kerala", "Manipur", "Meghalaya", "Mizoram", "Nagaland",
+      "Odisha", "Sikkim", "Tripura", "Uttarakhand", "Jammu & Kashmir", "Ladakh",
+      "Chandigarh", "Puducherry", "Andaman & Nicobar Islands", "Lakshadweep",
+      "Dadra & Nagar Haveli and Daman & Diu"
+    ]
+  },
+
+  "municipal_corporations": [
+    {
+      "city": "Delhi",
+      "corporation_name": "Municipal Corporation of Delhi",
+      "acronym": "MCD",
+      "website": "https://mcdonline.nic.in",
+      "email": "mcd-ithelpdesk@mcd.nic.in",
+      "phone": "155305",
+      "complaint_app": "MCD311",
+      "notes": "Handles dust/construction/garbage-burning complaints that affect AQI locally; forward broader AQI complaints to DPCC.",
+      "verified": true
+    },
+    {
+      "city": "New Delhi (NDMC area)",
+      "corporation_name": "New Delhi Municipal Council",
+      "acronym": "NDMC",
+      "website": "https://www.ndmc.gov.in",
+      "email": "care@ndmc.gov.in",
+      "verified": true
+    },
+    {
+      "city": "Mumbai",
+      "corporation_name": "Brihanmumbai Municipal Corporation",
+      "acronym": "BMC / MCGM",
+      "website": "https://portal.mcgm.gov.in",
+      "email": null,
+      "phone": "1916",
+      "notes": "No public complaint email published; helpline 1916 and web portal are the official channels.",
+      "verified": true
+    },
+    {
+      "city": "Bengaluru",
+      "corporation_name": "Bruhat Bengaluru Mahanagara Palike",
+      "acronym": "BBMP",
+      "website": "https://site.bbmp.gov.in",
+      "email": null,
+      "phone": "1533",
+      "complaint_app": "Sahaaya 2.0",
+      "notes": "No public complaint email published; app/phone are the official channels.",
+      "verified": true
+    },
+    {
+      "city": "Chennai",
+      "corporation_name": "Greater Chennai Corporation",
+      "acronym": "GCC",
+      "website": "https://chennaicorporation.gov.in",
+      "email": null,
+      "phone": "1913",
+      "notes": "No general public complaint email published (only a separate vigilance/corruption email exists, not for AQI). Use helpline 1913 or the online portal.",
+      "verified": true
+    },
+    {
+      "city": "Hyderabad",
+      "corporation_name": "Greater Hyderabad Municipal Corporation",
+      "acronym": "GHMC",
+      "website": "https://www.ghmc.gov.in",
+      "email": null,
+      "phone": "21111111",
+      "notes": "No public complaint email published; use helpline or web/app portal.",
+      "verified": true
+    }
+  ]
+}

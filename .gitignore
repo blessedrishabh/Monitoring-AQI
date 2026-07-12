@@ -1,0 +1,28 @@
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+.env
+
+# Python compilation cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific data files
+# (Uncomment the lines below if you don't want to track the generated JSON data files in git)
+# data/*.json
+raw_data/
+
+# OS generated files
+.DS_Store
+Thumbs.db

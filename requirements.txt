@@ -1,0 +1,24 @@
+# Core App
+streamlit>=1.58.0
+pandas>=3.0.0
+folium>=0.20.0
+streamlit-folium>=0.27.0
+altair>=6.2.0
+
+# Data Fetching (scripts/fetch_aqi_data.py)
+requests>=2.34.0
+reverse_geocoder>=1.5.1
+
+# Data Preprocessing (scripts/preprocess_gem_data.py)
+openpyxl>=3.1.5
+
+# Authentication & Database
+psycopg2-binary>=2.9.0
+bcrypt>=5.0.0
+
+# Environment Variables
+python-dotenv>=1.2.0
+
+# LLM Email Generation
+langchain>=1.3.0
+langchain-google-genai>=4.2.0

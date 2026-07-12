@@ -1,0 +1,7262 @@
+{
+  "7282": {
+    "city": "Thanesar",
+    "state": "Haryana",
+    "area": "Kurukshetra",
+    "longitude": 76.875879,
+    "latitude": 29.966942,
+    "pm_value_used": 100.16,
+    "aqi": 232,
+    "category": "Poor"
+  },
+  "358456": {
+    "city": "Anantapur",
+    "state": "Andhra Pradesh",
+    "area": "Anantapur",
+    "longitude": 77.593027,
+    "latitude": 14.675885999999998,
+    "pm_value_used": 38.21,
+    "aqi": 63,
+    "category": "Satisfactory"
+  },
+  "229987": {
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "area": "Muzaffarpur",
+    "longitude": 85.3650192,
+    "latitude": 26.1403345,
+    "pm_value_used": 28.0,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "7289": {
+    "city": "Hunsur",
+    "state": "Karnataka",
+    "area": "Mysore",
+    "longitude": 76.37376,
+    "latitude": 12.21041,
+    "pm_value_used": 32.51,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "270697": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.7388,
+    "latitude": 28.885279999999998,
+    "pm_value_used": 35.36,
+    "aqi": 58,
+    "category": "Satisfactory"
+  },
+  "309803": {
+    "city": "Haveri",
+    "state": "Karnataka",
+    "area": "Haveri",
+    "longitude": 75.38959999999999,
+    "latitude": 14.7918,
+    "pm_value_used": 20.0,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "5623": {
+    "city": "Serilingampalle",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.334361,
+    "latitude": 17.460103,
+    "pm_value_used": 52.0,
+    "aqi": 86,
+    "category": "Satisfactory"
+  },
+  "10851": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.41002457,
+    "latitude": 22.58157048,
+    "pm_value_used": 44.97,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "10831": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.11992,
+    "latitude": 28.732528,
+    "pm_value_used": 44.0,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "3409365": {
+    "city": "Korba",
+    "state": "Chhattisgarh",
+    "area": "Korba",
+    "longitude": 82.746431,
+    "latitude": 22.368195,
+    "pm_value_used": 10.76,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "60660": {
+    "city": "Shivaji Nagar",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.8214883,
+    "latitude": 18.517754,
+    "pm_value_used": 17.5,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "6964": {
+    "city": "Ambala",
+    "state": "Haryana",
+    "area": "Ambala",
+    "longitude": 76.778328,
+    "latitude": 30.379589,
+    "pm_value_used": 78.58,
+    "aqi": 161,
+    "category": "Moderately Polluted"
+  },
+  "2591": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "area": "Varanasi",
+    "longitude": 82.97833333,
+    "latitude": 25.35055556,
+    "pm_value_used": 288.0,
+    "aqi": 406,
+    "category": "Severe"
+  },
+  "227387": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "area": "Allahabad",
+    "longitude": 81.863,
+    "latitude": 25.494,
+    "pm_value_used": 15.51,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "3409516": {
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "area": "Pudukkottai",
+    "longitude": 78.784889,
+    "latitude": 10.423417,
+    "pm_value_used": 692.5,
+    "aqi": 459,
+    "category": "Severe"
+  },
+  "3409463": {
+    "city": "Jalna",
+    "state": "Maharashtra",
+    "area": "Jalna",
+    "longitude": 75.905894,
+    "latitude": 19.854616,
+    "pm_value_used": 17.84,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "6356035": {
+    "city": "Beniganj",
+    "state": "Uttar Pradesh",
+    "area": "Hardoi",
+    "longitude": 80.39693,
+    "latitude": 27.20289,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "220265": {
+    "city": "Srinagar",
+    "state": "Kashmir",
+    "area": "Srinagar",
+    "longitude": 74.81982,
+    "latitude": 34.06621,
+    "pm_value_used": 13.5,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "7583": {
+    "city": "Sriramnagar",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.162863,
+    "latitude": 17.305178,
+    "pm_value_used": 17.0,
+    "aqi": 28,
+    "category": "Good"
+  },
+  "6965": {
+    "city": "Borivli",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.864394,
+    "latitude": 19.227474,
+    "pm_value_used": 8.0,
+    "aqi": 13,
+    "category": "Good"
+  },
+  "358457": {
+    "city": "Irugur",
+    "state": "Tamil Nadu",
+    "area": "Coimbatore",
+    "longitude": 77.0349,
+    "latitude": 11.0328,
+    "pm_value_used": 18.3,
+    "aqi": 31,
+    "category": "Good"
+  },
+  "12044": {
+    "city": "Borivli",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8682,
+    "latitude": 19.2058,
+    "pm_value_used": 985.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "3409364": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "area": "Raipur",
+    "longitude": 81.630094,
+    "latitude": 21.219665,
+    "pm_value_used": 9.86,
+    "aqi": 16,
+    "category": "Good"
+  },
+  "4712609": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.234167,
+    "latitude": 28.623056,
+    "pm_value_used": 31.8,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "220353": {
+    "city": "Udipi",
+    "state": "Karnataka",
+    "area": "Udupi",
+    "longitude": 74.74694,
+    "latitude": 13.34194,
+    "pm_value_used": 495.5,
+    "aqi": 433,
+    "category": "Severe"
+  },
+  "361378": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "area": "Bhopal",
+    "longitude": 77.425409,
+    "latitude": 23.210494,
+    "pm_value_used": 12.0,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "3024966": {
+    "city": "Taoru",
+    "state": "Haryana",
+    "area": "Mewat",
+    "longitude": 76.91603,
+    "latitude": 28.31733,
+    "pm_value_used": 18.77,
+    "aqi": 31,
+    "category": "Good"
+  },
+  "60657": {
+    "city": "Harihar",
+    "state": "Karnataka",
+    "area": "Davanagere",
+    "longitude": 75.9052,
+    "latitude": 14.4758,
+    "pm_value_used": 6.6,
+    "aqi": 11,
+    "category": "Good"
+  },
+  "3409334": {
+    "city": "Haveri",
+    "state": "Karnataka",
+    "area": "Haveri",
+    "longitude": 75.3896,
+    "latitude": 14.7918,
+    "pm_value_used": 22.42,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "6442": {
+    "city": "Rupnagar",
+    "state": "Punjab",
+    "area": "Rupnagar",
+    "longitude": 76.5623046,
+    "latitude": 31.0325454,
+    "pm_value_used": 70.02,
+    "aqi": 132,
+    "category": "Moderately Polluted"
+  },
+  "6221295": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "area": "Surat",
+    "longitude": 72.834787,
+    "latitude": 21.217779,
+    "pm_value_used": 9.0,
+    "aqi": 15,
+    "category": "Good"
+  },
+  "6221294": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "area": "Vadodara",
+    "longitude": 73.216285,
+    "latitude": 22.320153,
+    "pm_value_used": 31.82,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "6221396": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "area": "Rajkot",
+    "longitude": 70.776774,
+    "latitude": 22.248853,
+    "pm_value_used": 21.77,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "6221395": {
+    "city": "Visnagar",
+    "state": "Gujarat",
+    "area": "Mahesana",
+    "longitude": 72.372792,
+    "latitude": 23.59315,
+    "pm_value_used": 31.53,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "5626": {
+    "city": "Alipur",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.1112615,
+    "latitude": 28.7500499,
+    "pm_value_used": 63.0,
+    "aqi": 108,
+    "category": "Moderately Polluted"
+  },
+  "6967": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8746,
+    "latitude": 19.047,
+    "pm_value_used": 29.0,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "3409327": {
+    "city": "Agartala",
+    "state": "Tripura",
+    "area": "West Tripura",
+    "longitude": 91.2887362,
+    "latitude": 23.8628276,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "60661": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.813993,
+    "latitude": 19.000083,
+    "pm_value_used": 62.24,
+    "aqi": 105,
+    "category": "Moderately Polluted"
+  },
+  "10919": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.453839,
+    "latitude": 28.685382,
+    "pm_value_used": 49.0,
+    "aqi": 81,
+    "category": "Satisfactory"
+  },
+  "11608": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.848956,
+    "latitude": 18.640051,
+    "pm_value_used": 17.48,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "6950": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.36917,
+    "latitude": 22.49929,
+    "pm_value_used": 49.28,
+    "aqi": 82,
+    "category": "Satisfactory"
+  },
+  "10633": {
+    "city": "Bara Bazar",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.3403691,
+    "latitude": 22.5448082,
+    "pm_value_used": 48.0,
+    "aqi": 80,
+    "category": "Satisfactory"
+  },
+  "6971": {
+    "city": "Kaithal",
+    "state": "Haryana",
+    "area": "Kaithal",
+    "longitude": 76.4155,
+    "latitude": 29.8006,
+    "pm_value_used": 26.74,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "44514": {
+    "city": "Bidar",
+    "state": "Karnataka",
+    "area": "Bidar",
+    "longitude": 77.482194,
+    "latitude": 17.930306,
+    "pm_value_used": 985.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "6229179": {
+    "city": "Jammu",
+    "state": "Kashmir",
+    "area": "Jammu",
+    "longitude": 74.816769,
+    "latitude": 32.80803,
+    "pm_value_used": 68.5,
+    "aqi": 127,
+    "category": "Moderately Polluted"
+  },
+  "5607": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.494094,
+    "latitude": 13.0270199,
+    "pm_value_used": 334.23,
+    "aqi": 412,
+    "category": "Severe"
+  },
+  "10907": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "area": "Gwalior",
+    "longitude": 78.193251,
+    "latitude": 26.203442,
+    "pm_value_used": 39.0,
+    "aqi": 65,
+    "category": "Satisfactory"
+  },
+  "3174189": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.93739,
+    "latitude": 22.71771,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "3174190": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.89488,
+    "latitude": 22.6967,
+    "pm_value_used": 14.0,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "3174188": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.85257,
+    "latitude": 22.70763,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "6230603": {
+    "city": "Rajaori",
+    "state": "Kashmir",
+    "area": "Rajauri",
+    "longitude": 74.314353,
+    "latitude": 33.380775,
+    "pm_value_used": 11.3,
+    "aqi": 19,
+    "category": "Good"
+  },
+  "5581": {
+    "city": "Nangloi Jat",
+    "state": "NCT",
+    "area": "West Delhi",
+    "longitude": 77.0996943,
+    "latitude": 28.610304,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "5603": {
+    "city": "Pithampur",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.675238,
+    "latitude": 22.624758,
+    "pm_value_used": 41.0,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "6972": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.319699,
+    "latitude": 28.3419248,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "6231999": {
+    "city": "Jammu",
+    "state": "Kashmir",
+    "area": "Jammu",
+    "longitude": 74.859108,
+    "latitude": 32.701576,
+    "pm_value_used": 28.2,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "313411": {
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "area": "East Khasi Hills",
+    "longitude": 91.8942571,
+    "latitude": 25.5803419,
+    "pm_value_used": 19.3,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "228298": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.56296800000001,
+    "latitude": 23.04307,
+    "pm_value_used": 36.06,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "12024": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.86084,
+    "latitude": 19.11074,
+    "pm_value_used": 32.74,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "301391": {
+    "city": "Samastipur",
+    "state": "Bihar",
+    "area": "Samastipur",
+    "longitude": 85.77944000000001,
+    "latitude": 25.859655,
+    "pm_value_used": 13.0,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "6932": {
+    "city": "Alipur",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.15301,
+    "latitude": 28.815329,
+    "pm_value_used": 52.0,
+    "aqi": 86,
+    "category": "Satisfactory"
+  },
+  "6955": {
+    "city": "Gulbarga",
+    "state": "Karnataka",
+    "area": "Gulbarga",
+    "longitude": 76.822628,
+    "latitude": 17.321993,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "5546": {
+    "city": "Jamadoba",
+    "state": "Jharkhand",
+    "area": "Dhanbad",
+    "longitude": 86.41467,
+    "latitude": 23.707909,
+    "pm_value_used": 29.32,
+    "aqi": 49,
+    "category": "Good"
+  },
+  "3409347": {
+    "city": "Hosur",
+    "state": "Tamil Nadu",
+    "area": "Krishnagiri",
+    "longitude": 77.813811,
+    "latitude": 12.746998,
+    "pm_value_used": 39.76,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "5612": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.730943,
+    "latitude": 26.9502929,
+    "pm_value_used": 45.0,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "3774726": {
+    "city": "Namakkal",
+    "state": "Tamil Nadu",
+    "area": "Namakkal",
+    "longitude": 78.163545,
+    "latitude": 11.273992,
+    "pm_value_used": 17.56,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "10537": {
+    "city": "Bagalkot",
+    "state": "Karnataka",
+    "area": "Bagalkot",
+    "longitude": 75.659694,
+    "latitude": 16.172806,
+    "pm_value_used": 18.63,
+    "aqi": 31,
+    "category": "Good"
+  },
+  "228301": {
+    "city": "Ghandinagar",
+    "state": "Gujarat",
+    "area": "Gandhinagar",
+    "longitude": 72.68994,
+    "latitude": 23.243639,
+    "pm_value_used": 15.32,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "6244030": {
+    "city": "Auroville",
+    "state": "Tamil Nadu",
+    "area": "Villupuram",
+    "longitude": 79.818104,
+    "latitude": 12.000079,
+    "pm_value_used": 5.2,
+    "aqi": 9,
+    "category": "Good"
+  },
+  "6401376": {
+    "city": "Jammu",
+    "state": "Kashmir",
+    "area": "Jammu",
+    "longitude": 74.886016,
+    "latitude": 32.689777,
+    "pm_value_used": 51.5,
+    "aqi": 86,
+    "category": "Satisfactory"
+  },
+  "3409328": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.84614,
+    "latitude": 19.0627,
+    "pm_value_used": 9.82,
+    "aqi": 16,
+    "category": "Good"
+  },
+  "6250050": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "area": "Bhopal",
+    "longitude": 77.454474,
+    "latitude": 23.258543,
+    "pm_value_used": 47.8,
+    "aqi": 79,
+    "category": "Satisfactory"
+  },
+  "223146": {
+    "city": "Naharlagun",
+    "state": "Arunachal Pradesh",
+    "area": "Papum Pare",
+    "longitude": 93.679645,
+    "latitude": 27.103358,
+    "pm_value_used": 17.4,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "6250953": {
+    "city": "Cherpulassery",
+    "state": "Kerala",
+    "area": "Palakkad district",
+    "longitude": 76.23440154833858,
+    "latitude": 10.89235897883435,
+    "pm_value_used": 22.3,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "6251997": {
+    "city": "Rae Bareli",
+    "state": "Uttar Pradesh",
+    "area": "Rae Bareli",
+    "longitude": 81.245571,
+    "latitude": 26.207781,
+    "pm_value_used": 18.91,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "6404322": {
+    "city": "Kishangarh",
+    "state": "Rajasthan",
+    "area": "Alwar",
+    "longitude": 76.6365217,
+    "latitude": 27.8015617,
+    "pm_value_used": 67.43,
+    "aqi": 123,
+    "category": "Moderately Polluted"
+  },
+  "6404323": {
+    "city": "Govardhan",
+    "state": "Uttar Pradesh",
+    "area": "Mathura",
+    "longitude": 77.550619,
+    "latitude": 27.410954,
+    "pm_value_used": 31.46,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "6254594": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1944633,
+    "latitude": 28.62181,
+    "pm_value_used": 47.88,
+    "aqi": 80,
+    "category": "Satisfactory"
+  },
+  "6254666": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.201159,
+    "latitude": 28.493624,
+    "pm_value_used": 17.56,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "6254665": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.271992,
+    "latitude": 28.615828,
+    "pm_value_used": 49.47,
+    "aqi": 82,
+    "category": "Satisfactory"
+  },
+  "5625": {
+    "city": "Sirhind",
+    "state": "Punjab",
+    "area": "Fatehgarh Sahib",
+    "longitude": 76.331442,
+    "latitude": 30.649961,
+    "pm_value_used": 30.2,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "346": {
+    "city": "Rohtak",
+    "state": "Haryana",
+    "area": "Rohtak",
+    "longitude": 76.619464,
+    "latitude": 28.876028,
+    "pm_value_used": 132.25,
+    "aqi": 310,
+    "category": "Very Poor"
+  },
+  "5604": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.957145,
+    "latitude": 26.871428,
+    "pm_value_used": 5.0,
+    "aqi": 8,
+    "category": "Good"
+  },
+  "431": {
+    "city": "Loni",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.305,
+    "latitude": 28.6821,
+    "pm_value_used": 11.9,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "6257818": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1251,
+    "latitude": 28.594169,
+    "pm_value_used": 17.17,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "6930": {
+    "city": "Yamunanagar",
+    "state": "Haryana",
+    "area": "Yamunanagar",
+    "longitude": 77.2893471,
+    "latitude": 30.1480566,
+    "pm_value_used": 53.9,
+    "aqi": 90,
+    "category": "Satisfactory"
+  },
+  "6258871": {
+    "city": "Ulhasnagar",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.155192,
+    "latitude": 19.2307571,
+    "pm_value_used": 12.0,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "228303": {
+    "city": "Sarkhej",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.456691,
+    "latitude": 23.041137,
+    "pm_value_used": 31.07,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "6266792": {
+    "city": "Beed",
+    "state": "Maharashtra",
+    "area": "Bid",
+    "longitude": 75.753873,
+    "latitude": 18.988474,
+    "pm_value_used": 15.0,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "6266795": {
+    "city": "Dombivli",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.0788456,
+    "latitude": 19.2268427,
+    "pm_value_used": 4.0,
+    "aqi": 7,
+    "category": "Good"
+  },
+  "6266793": {
+    "city": "Hingoli",
+    "state": "Maharashtra",
+    "area": "Hingoli",
+    "longitude": 77.151824,
+    "latitude": 19.710842,
+    "pm_value_used": 14.0,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "3409496": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.184,
+    "latitude": 28.57834,
+    "pm_value_used": 57.1,
+    "aqi": 95,
+    "category": "Satisfactory"
+  },
+  "10906": {
+    "city": "Sonipat",
+    "state": "Haryana",
+    "area": "Sonipat",
+    "longitude": 77.0621,
+    "latitude": 29.027199999999997,
+    "pm_value_used": 56.57,
+    "aqi": 94,
+    "category": "Satisfactory"
+  },
+  "4512170": {
+    "city": "Srinagar",
+    "state": "Kashmir",
+    "area": "Srinagar",
+    "longitude": 74.7754688,
+    "latitude": 34.0702669,
+    "pm_value_used": 54.86011060078939,
+    "aqi": 91,
+    "category": "Satisfactory"
+  },
+  "7901": {
+    "city": "Trichur",
+    "state": "Kerala",
+    "area": "Thrissur District",
+    "longitude": 76.24085,
+    "latitude": 10.522198,
+    "pm_value_used": 28.09,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "234997": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 78.03582,
+    "latitude": 27.169338,
+    "pm_value_used": 49.0,
+    "aqi": 81,
+    "category": "Satisfactory"
+  },
+  "4663956": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1493,
+    "latitude": 28.5266,
+    "pm_value_used": 29.0,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "4720578": {
+    "city": "Kukatpalli",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.405394,
+    "latitude": 17.492676,
+    "pm_value_used": 3.5433749025687575,
+    "aqi": 6,
+    "category": "Good"
+  },
+  "10905": {
+    "city": "Kaithal",
+    "state": "Haryana",
+    "area": "Kaithal",
+    "longitude": 76.4155,
+    "latitude": 29.8006,
+    "pm_value_used": 238.02,
+    "aqi": 391,
+    "category": "Very Poor"
+  },
+  "8039": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.88261,
+    "latitude": 19.07283,
+    "pm_value_used": -999.0,
+    "aqi": -1689,
+    "category": "Good"
+  },
+  "6418671": {
+    "city": "Fatehpur Sikri",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 77.671335,
+    "latitude": 27.097694,
+    "pm_value_used": 47.87,
+    "aqi": 80,
+    "category": "Satisfactory"
+  },
+  "6960": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.287205,
+    "latitude": 28.623748,
+    "pm_value_used": 48.0,
+    "aqi": 80,
+    "category": "Satisfactory"
+  },
+  "7833": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "area": "Meerut",
+    "longitude": 77.7590354,
+    "latitude": 28.999264,
+    "pm_value_used": 56.0,
+    "aqi": 93,
+    "category": "Satisfactory"
+  },
+  "229985": {
+    "city": "Bihar Sharif",
+    "state": "Bihar",
+    "area": "Nalanda",
+    "longitude": 85.51496,
+    "latitude": 25.204762,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "2460": {
+    "city": "Bara Bazar",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.351048,
+    "latitude": 22.547142,
+    "pm_value_used": 279.1,
+    "aqi": 405,
+    "category": "Severe"
+  },
+  "2549": {
+    "city": "Gandhi Nagar",
+    "state": "Tamil Nadu",
+    "area": "Chennai",
+    "longitude": 80.23744722,
+    "latitude": 12.992513890000001,
+    "pm_value_used": 70.0,
+    "aqi": 132,
+    "category": "Moderately Polluted"
+  },
+  "5765": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.2664587,
+    "latitude": 28.5366411,
+    "pm_value_used": 74.0,
+    "aqi": 145,
+    "category": "Moderately Polluted"
+  },
+  "5646": {
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "area": "Thiruvananthapuram",
+    "longitude": 76.9435879,
+    "latitude": 8.5149093,
+    "pm_value_used": 13.0,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "4916349": {
+    "city": "Kishangarh",
+    "state": "Rajasthan",
+    "area": "Ajmer",
+    "longitude": 75.0273,
+    "latitude": 26.6236,
+    "pm_value_used": 25.1,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "5609": {
+    "city": "Kovvur",
+    "state": "Andhra Pradesh",
+    "area": "West Godavari",
+    "longitude": 81.7363176,
+    "latitude": 16.9872867,
+    "pm_value_used": 21.0,
+    "aqi": 35,
+    "category": "Good"
+  },
+  "5057509": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.53287536498033,
+    "latitude": 23.034568596154394,
+    "pm_value_used": 24.5,
+    "aqi": 41,
+    "category": "Good"
+  },
+  "6952": {
+    "city": "Sirsa",
+    "state": "Haryana",
+    "area": "Sirsa",
+    "longitude": 75.0158,
+    "latitude": 29.5364,
+    "pm_value_used": 214.32,
+    "aqi": 373,
+    "category": "Very Poor"
+  },
+  "5601": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.7213009,
+    "latitude": 28.825341,
+    "pm_value_used": 78.0,
+    "aqi": 159,
+    "category": "Moderately Polluted"
+  },
+  "6276317": {
+    "city": "Nellore",
+    "state": "Andhra Pradesh",
+    "area": "Nellore",
+    "longitude": 79.966814,
+    "latitude": 14.438164,
+    "pm_value_used": 36.44,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "6431234": {
+    "city": "Rajaori",
+    "state": "Kashmir",
+    "area": "Rajauri",
+    "longitude": 74.23779,
+    "latitude": 33.162408,
+    "pm_value_used": 16.3,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "6434075": {
+    "city": "Bandipura",
+    "state": "Kashmir",
+    "area": "Bandipore",
+    "longitude": 74.6635,
+    "latitude": 34.4494,
+    "pm_value_used": 43.1,
+    "aqi": 71,
+    "category": "Satisfactory"
+  },
+  "3409528": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.799516,
+    "latitude": 18.614767,
+    "pm_value_used": 15.26,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "5728639": {
+    "city": "Srinagar",
+    "state": "Kashmir",
+    "area": "Srinagar",
+    "longitude": 74.77548492160591,
+    "latitude": 34.07023554237501,
+    "pm_value_used": 52.6,
+    "aqi": 87,
+    "category": "Satisfactory"
+  },
+  "6441402": {
+    "city": "Doda",
+    "state": "Kashmir",
+    "area": "Doda",
+    "longitude": 75.4517,
+    "latitude": 33.1567,
+    "pm_value_used": 42.3,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "5628": {
+    "city": "Yarada",
+    "state": "Andhra Pradesh",
+    "area": "Vishakhapatnam",
+    "longitude": 83.308197,
+    "latitude": 17.722682,
+    "pm_value_used": 46.0,
+    "aqi": 76,
+    "category": "Satisfactory"
+  },
+  "6290075": {
+    "city": "Dispur",
+    "state": "Assam",
+    "area": "Kamrup Metropolitan",
+    "longitude": 91.875185,
+    "latitude": 26.079047,
+    "pm_value_used": 15.61,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "703": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "longitude": 73.0379111111111,
+    "latitude": 26.2920639,
+    "pm_value_used": 146.3,
+    "aqi": 320,
+    "category": "Very Poor"
+  },
+  "10697": {
+    "city": "Patna",
+    "state": "Bihar",
+    "area": "Patna",
+    "longitude": 85.085624,
+    "latitude": 25.596727,
+    "pm_value_used": 155.0,
+    "aqi": 327,
+    "category": "Very Poor"
+  },
+  "3409457": {
+    "city": "Ahmadnagar",
+    "state": "Maharashtra",
+    "area": "Ahmadnagar",
+    "longitude": 74.73339,
+    "latitude": 19.10122,
+    "pm_value_used": 10.13,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "7495": {
+    "city": "Khagaul",
+    "state": "Bihar",
+    "area": "Patna",
+    "longitude": 85.043586,
+    "latitude": 25.586562,
+    "pm_value_used": 24.6,
+    "aqi": 41,
+    "category": "Good"
+  },
+  "8917": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.181665,
+    "latitude": 28.695381,
+    "pm_value_used": 59.0,
+    "aqi": 98,
+    "category": "Satisfactory"
+  },
+  "5619": {
+    "city": "Singrauli",
+    "state": "Madhya Pradesh",
+    "area": "Singrauli",
+    "longitude": 82.64558,
+    "latitude": 24.10897,
+    "pm_value_used": 75.0,
+    "aqi": 149,
+    "category": "Moderately Polluted"
+  },
+  "3409376": {
+    "city": "Dispur",
+    "state": "Assam",
+    "area": "Kamrup Metropolitan",
+    "longitude": 91.87488,
+    "latitude": 26.071317999999998,
+    "pm_value_used": 47.0,
+    "aqi": 78,
+    "category": "Satisfactory"
+  },
+  "3409462": {
+    "city": "Jalgaon",
+    "state": "Maharashtra",
+    "area": "Jalgaon",
+    "longitude": 75.565602,
+    "latitude": 21.001264,
+    "pm_value_used": 18.96,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "3409471": {
+    "city": "Panvel",
+    "state": "Maharashtra",
+    "area": "Raigarh",
+    "longitude": 73.10297,
+    "latitude": 19.02579,
+    "pm_value_used": 16.03,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "3409482": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.862131,
+    "latitude": 19.065931,
+    "pm_value_used": 14.16,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "3409390": {
+    "city": "Palasbari",
+    "state": "Assam",
+    "area": "Kamrup",
+    "longitude": 91.58954399999999,
+    "latitude": 26.10887,
+    "pm_value_used": 44.0,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "5590": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "area": "Varanasi",
+    "longitude": 82.9083074,
+    "latitude": 25.3505986,
+    "pm_value_used": 37.0,
+    "aqi": 61,
+    "category": "Satisfactory"
+  },
+  "7292": {
+    "city": "Manpur",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.5213,
+    "latitude": 22.431,
+    "pm_value_used": 26.0,
+    "aqi": 43,
+    "category": "Good"
+  },
+  "6924": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.358075,
+    "latitude": 28.646233,
+    "pm_value_used": 170.0,
+    "aqi": 339,
+    "category": "Very Poor"
+  },
+  "44513": {
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "area": "Dakshina Kannada",
+    "longitude": 74.853,
+    "latitude": 12.88925,
+    "pm_value_used": 20.07,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "3409323": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8128113,
+    "latitude": 18.9936162,
+    "pm_value_used": 33.0,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "10921": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 77.148944,
+    "latitude": 28.422681,
+    "pm_value_used": 39.49,
+    "aqi": 65,
+    "category": "Satisfactory"
+  },
+  "227533": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.625775,
+    "latitude": 23.016834,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "5665": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.3572563,
+    "latitude": 28.6603346,
+    "pm_value_used": 166.0,
+    "aqi": 336,
+    "category": "Very Poor"
+  },
+  "6929": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.237738,
+    "latitude": 28.611281,
+    "pm_value_used": 228.0,
+    "aqi": 383,
+    "category": "Very Poor"
+  },
+  "6978": {
+    "city": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.482,
+    "latitude": 28.47272,
+    "pm_value_used": 50.0,
+    "aqi": 83,
+    "category": "Satisfactory"
+  },
+  "8472": {
+    "city": "Bawana",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.051074,
+    "latitude": 28.7762,
+    "pm_value_used": 29.0,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "3409506": {
+    "city": "Cuttack",
+    "state": "Odisha",
+    "area": "Cuttack",
+    "longitude": 85.84768,
+    "latitude": 20.48891,
+    "pm_value_used": 40.0,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "3409481": {
+    "city": "Boisar",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.757971,
+    "latitude": 19.786089,
+    "pm_value_used": 23.5,
+    "aqi": 39,
+    "category": "Good"
+  },
+  "3409356": {
+    "city": "Puliyur",
+    "state": "Tamil Nadu",
+    "area": "Pudukkottai",
+    "longitude": 78.74174599999999,
+    "latitude": 10.681158,
+    "pm_value_used": 454.1,
+    "aqi": 428,
+    "category": "Severe"
+  },
+  "10900": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 77.1465,
+    "latitude": 28.4275,
+    "pm_value_used": 79.9,
+    "aqi": 166,
+    "category": "Moderately Polluted"
+  },
+  "3409344": {
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "area": "Tirunelveli Kattabo",
+    "longitude": 77.6962,
+    "latitude": 8.728442,
+    "pm_value_used": 985.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "346258": {
+    "city": "Serilingampalle",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.33919399999999,
+    "latitude": 17.393559,
+    "pm_value_used": 21.5,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "10917": {
+    "city": "Maihar",
+    "state": "Madhya Pradesh",
+    "area": "Satna",
+    "longitude": 80.7231783,
+    "latitude": 24.2613009,
+    "pm_value_used": 7.39,
+    "aqi": 12,
+    "category": "Good"
+  },
+  "344104": {
+    "city": "Quthbullapur",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.486949,
+    "latitude": 17.544898999999997,
+    "pm_value_used": 23.49,
+    "aqi": 39,
+    "category": "Good"
+  },
+  "10913": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "area": "Bhopal",
+    "longitude": 77.400574,
+    "latitude": 23.233584,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409360": {
+    "city": "North Guwahati",
+    "state": "Assam",
+    "area": "Kamrup",
+    "longitude": 91.70046436,
+    "latitude": 26.202863600000004,
+    "pm_value_used": 6.43,
+    "aqi": 11,
+    "category": "Good"
+  },
+  "3409363": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "area": "Raipur",
+    "longitude": 81.705301,
+    "latitude": 21.237755,
+    "pm_value_used": 13.28,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "5613": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.24106,
+    "latitude": 28.628624,
+    "pm_value_used": 45.0,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "45008": {
+    "city": "Gummidipundi",
+    "state": "Tamil Nadu",
+    "area": "Thiruvallur",
+    "longitude": 80.1081,
+    "latitude": 13.4127,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "10901": {
+    "city": "Kohima",
+    "state": "Nagaland",
+    "area": "Kohima",
+    "longitude": 94.0989878,
+    "latitude": 25.6635413,
+    "pm_value_used": 13.0,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "10545": {
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "area": "Ajmer",
+    "longitude": 74.646594,
+    "latitude": 26.470859,
+    "pm_value_used": 47.6,
+    "aqi": 79,
+    "category": "Satisfactory"
+  },
+  "3409467": {
+    "city": "Nanded",
+    "state": "Maharashtra",
+    "area": "Nanded",
+    "longitude": 77.296291,
+    "latitude": 19.173852,
+    "pm_value_used": 15.34,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "229404": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.98579000000001,
+    "latitude": 26.90723,
+    "pm_value_used": 61.57,
+    "aqi": 103,
+    "category": "Moderately Polluted"
+  },
+  "3409450": {
+    "city": "Nagaur",
+    "state": "Rajasthan",
+    "area": "Nagaur",
+    "longitude": 73.734444,
+    "latitude": 27.213494,
+    "pm_value_used": 20.0,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "6954": {
+    "city": "Chik Ballapur",
+    "state": "Karnataka",
+    "area": "Chikkaballapur",
+    "longitude": 77.731418,
+    "latitude": 13.428828,
+    "pm_value_used": 18.0,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "5631": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.591912,
+    "latitude": 23.002657,
+    "pm_value_used": 43.94,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "358627": {
+    "city": "Vandalur",
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "longitude": 80.08348070000001,
+    "latitude": 12.877731599999999,
+    "pm_value_used": 42.0,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "5443": {
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "area": "Ujjain",
+    "longitude": 75.768218,
+    "latitude": 23.182719,
+    "pm_value_used": 76.0,
+    "aqi": 152,
+    "category": "Moderately Polluted"
+  },
+  "3409430": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.766894,
+    "latitude": 26.843698,
+    "pm_value_used": 26.0,
+    "aqi": 43,
+    "category": "Good"
+  },
+  "304956": {
+    "city": "Aurangabad",
+    "state": "Bihar",
+    "area": "Aurangabad",
+    "longitude": 84.366208,
+    "latitude": 24.757460000000002,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "10780": {
+    "city": "Chinnasekkadu",
+    "state": "Tamil Nadu",
+    "area": "Thiruvallur",
+    "longitude": 80.2584,
+    "latitude": 13.1662,
+    "pm_value_used": 119.85,
+    "aqi": 299,
+    "category": "Poor"
+  },
+  "3409483": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8954371,
+    "latitude": 19.0364585,
+    "pm_value_used": 14.17,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "12039": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.928297,
+    "latitude": 19.164394,
+    "pm_value_used": 15.55,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "3409417": {
+    "city": "Chittaurgarh",
+    "state": "Rajasthan",
+    "area": "Chittaurgarh",
+    "longitude": 74.623527,
+    "latitude": 24.892047,
+    "pm_value_used": 1.0,
+    "aqi": 2,
+    "category": "Good"
+  },
+  "3409318": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.9302753,
+    "latitude": 26.8821003,
+    "pm_value_used": 20.23,
+    "aqi": 34,
+    "category": "Good"
+  },
+  "5652": {
+    "city": "Patna",
+    "state": "Bihar",
+    "area": "Patna",
+    "longitude": 85.1376,
+    "latitude": 25.5941,
+    "pm_value_used": 217.0,
+    "aqi": 375,
+    "category": "Very Poor"
+  },
+  "344142": {
+    "city": "Uppal Kalan",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.569354,
+    "latitude": 17.429398,
+    "pm_value_used": 24.89,
+    "aqi": 41,
+    "category": "Good"
+  },
+  "8915": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.165453,
+    "latitude": 28.699793,
+    "pm_value_used": 74.0,
+    "aqi": 145,
+    "category": "Moderately Polluted"
+  },
+  "3409477": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.014232,
+    "latitude": 19.090337,
+    "pm_value_used": 14.86,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "3409366": {
+    "city": "Korba",
+    "state": "Chhattisgarh",
+    "area": "Korba",
+    "longitude": 82.549611,
+    "latitude": 22.348441,
+    "pm_value_used": 34.24,
+    "aqi": 56,
+    "category": "Satisfactory"
+  },
+  "3409349": {
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "area": "Vellore",
+    "longitude": 79.131861,
+    "latitude": 12.909494,
+    "pm_value_used": 78.0,
+    "aqi": 159,
+    "category": "Moderately Polluted"
+  },
+  "5599": {
+    "city": "Serilingampalle",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.358528,
+    "latitude": 17.540891,
+    "pm_value_used": 83.0,
+    "aqi": 176,
+    "category": "Moderately Polluted"
+  },
+  "5585": {
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "area": "Udaipur",
+    "longitude": 73.6321397,
+    "latitude": 24.5886166,
+    "pm_value_used": 45.5,
+    "aqi": 76,
+    "category": "Satisfactory"
+  },
+  "11610": {
+    "city": "Dehu",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.763966,
+    "latitude": 18.664282,
+    "pm_value_used": 17.32,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "10825": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 77.0667,
+    "latitude": 28.4227,
+    "pm_value_used": 472.46,
+    "aqi": 430,
+    "category": "Severe"
+  },
+  "6927": {
+    "city": "Uran",
+    "state": "Maharashtra",
+    "area": "Raigarh",
+    "longitude": 72.82,
+    "latitude": 18.91,
+    "pm_value_used": 738.75,
+    "aqi": 466,
+    "category": "Severe"
+  },
+  "3409498": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.8815,
+    "latitude": 22.7084,
+    "pm_value_used": 16.76,
+    "aqi": 28,
+    "category": "Good"
+  },
+  "270723": {
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "area": "Bhagalpur",
+    "longitude": 86.989001,
+    "latitude": 25.251013,
+    "pm_value_used": 93.0,
+    "aqi": 208,
+    "category": "Poor"
+  },
+  "3409444": {
+    "city": "Jaisalmer",
+    "state": "Rajasthan",
+    "area": "Jaisalmer",
+    "longitude": 70.909168,
+    "latitude": 26.912329,
+    "pm_value_used": 8.0,
+    "aqi": 13,
+    "category": "Good"
+  },
+  "60656": {
+    "city": "Kolar",
+    "state": "Karnataka",
+    "area": "Kolar",
+    "longitude": 78.1570122,
+    "latitude": 13.1276288,
+    "pm_value_used": 985.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "5565": {
+    "city": "Chandrapur",
+    "state": "Maharashtra",
+    "area": "Chandrapur",
+    "longitude": 79.2337086,
+    "latitude": 19.9775302,
+    "pm_value_used": 12.4,
+    "aqi": 21,
+    "category": "Good"
+  },
+  "3409400": {
+    "city": "Cuddapah",
+    "state": "Andhra Pradesh",
+    "area": "Cuddapah",
+    "longitude": 78.824187,
+    "latitude": 14.465051999999998,
+    "pm_value_used": 53.81,
+    "aqi": 90,
+    "category": "Satisfactory"
+  },
+  "3409353": {
+    "city": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "longitude": 79.659968,
+    "latitude": 12.864618,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "2586": {
+    "city": "Manali",
+    "state": "Tamil Nadu",
+    "area": "Thiruvallur",
+    "longitude": 80.26285,
+    "latitude": 13.164544,
+    "pm_value_used": 29.95,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "3409439": {
+    "city": "Khadki",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.826908,
+    "latitude": 18.547056,
+    "pm_value_used": 11.31,
+    "aqi": 19,
+    "category": "Good"
+  },
+  "6976": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "area": "Meerut",
+    "longitude": 77.7622941,
+    "latitude": 28.9535882,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "270729": {
+    "city": "Chhapra",
+    "state": "Bihar",
+    "area": "Saran",
+    "longitude": 84.7446768,
+    "latitude": 25.780825699999998,
+    "pm_value_used": 182.0,
+    "aqi": 348,
+    "category": "Very Poor"
+  },
+  "363601": {
+    "city": "Sibsagar",
+    "state": "Assam",
+    "area": "Sibsagar",
+    "longitude": 94.636574,
+    "latitude": 26.987634000000003,
+    "pm_value_used": 9.29,
+    "aqi": 15,
+    "category": "Good"
+  },
+  "3409394": {
+    "city": "Banposh",
+    "state": "Odisha",
+    "area": "Sundargarh",
+    "longitude": 84.86277778,
+    "latitude": 22.18972222,
+    "pm_value_used": 37.69,
+    "aqi": 62,
+    "category": "Satisfactory"
+  },
+  "5569": {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "area": "Ludhiana",
+    "longitude": 75.8086,
+    "latitude": 30.9028,
+    "pm_value_used": 98.69,
+    "aqi": 227,
+    "category": "Poor"
+  },
+  "3409469": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.97182,
+    "latitude": 19.26777,
+    "pm_value_used": 29.94,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "3409336": {
+    "city": "Ghandinagar",
+    "state": "Gujarat",
+    "area": "Gandhinagar",
+    "longitude": 72.677768,
+    "latitude": 23.163798,
+    "pm_value_used": 15.66,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "5632": {
+    "city": "Mandideep",
+    "state": "Madhya Pradesh",
+    "area": "Raisen",
+    "longitude": 77.511428,
+    "latitude": 23.10844,
+    "pm_value_used": 88.0,
+    "aqi": 193,
+    "category": "Moderately Polluted"
+  },
+  "11581": {
+    "city": "Chetput",
+    "state": "Tamil Nadu",
+    "area": "Chennai",
+    "longitude": 80.2112,
+    "latitude": 13.0664,
+    "pm_value_used": 10.0,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "10904": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.35142,
+    "latitude": 22.51106,
+    "pm_value_used": 23.7,
+    "aqi": 40,
+    "category": "Good"
+  },
+  "3409509": {
+    "city": "Barakpur",
+    "state": "West Bengal",
+    "area": "North 24 Parganas",
+    "longitude": 88.3617589,
+    "latitude": 22.7605581,
+    "pm_value_used": 42.02,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "11603": {
+    "city": "Delhi",
+    "state": "NCT",
+    "area": "North Delhi",
+    "longitude": 77.227234,
+    "latitude": 28.656756,
+    "pm_value_used": 46.6,
+    "aqi": 77,
+    "category": "Satisfactory"
+  },
+  "228297": {
+    "city": "Naroda",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.627874,
+    "latitude": 23.076793,
+    "pm_value_used": 41.5,
+    "aqi": 69,
+    "category": "Satisfactory"
+  },
+  "270771": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.7446,
+    "latitude": 28.835259999999998,
+    "pm_value_used": 83.25,
+    "aqi": 177,
+    "category": "Moderately Polluted"
+  },
+  "5615": {
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 87.2892225,
+    "latitude": 23.5404352,
+    "pm_value_used": 31.25,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "10484": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.190156,
+    "latitude": 28.531346,
+    "pm_value_used": 46.0,
+    "aqi": 76,
+    "category": "Satisfactory"
+  },
+  "5566": {
+    "city": "Talcher",
+    "state": "Odisha",
+    "area": "Angul District",
+    "longitude": 85.1707021,
+    "latitude": 20.9360711,
+    "pm_value_used": 30.41,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "278418": {
+    "city": "Mohali",
+    "state": "Punjab",
+    "area": "Ajitgarh",
+    "longitude": 76.738637,
+    "latitude": 30.719859000000003,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "11577": {
+    "city": "Shimoga",
+    "state": "Karnataka",
+    "area": "Shimoga",
+    "longitude": 75.555917,
+    "latitude": 13.94,
+    "pm_value_used": 13.77,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "7979": {
+    "city": "Sagar",
+    "state": "Madhya Pradesh",
+    "area": "Sagar",
+    "longitude": 78.80289321,
+    "latitude": 23.8640158,
+    "pm_value_used": 7.76,
+    "aqi": 13,
+    "category": "Good"
+  },
+  "5551": {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "area": "Amritsar",
+    "longitude": 74.876512,
+    "latitude": 31.62,
+    "pm_value_used": 49.79,
+    "aqi": 83,
+    "category": "Satisfactory"
+  },
+  "3409499": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.8559,
+    "latitude": 22.678,
+    "pm_value_used": 21.9,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "5544": {
+    "city": "Patiala",
+    "state": "Punjab",
+    "area": "Patiala",
+    "longitude": 76.366642,
+    "latitude": 30.349388,
+    "pm_value_used": 57.28,
+    "aqi": 95,
+    "category": "Satisfactory"
+  },
+  "3409454": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "area": "Nashik Division",
+    "longitude": 73.813844,
+    "latitude": 20.021503,
+    "pm_value_used": 13.62,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "5634": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.2273074,
+    "latitude": 28.5918245,
+    "pm_value_used": 69.6,
+    "aqi": 130,
+    "category": "Moderately Polluted"
+  },
+  "6934": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.26484,
+    "latitude": 28.498571,
+    "pm_value_used": 45.0,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "227534": {
+    "city": "Sarkhej",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.553024,
+    "latitude": 22.977134,
+    "pm_value_used": 27.1,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "10902": {
+    "city": "Chikmagalur",
+    "state": "Karnataka",
+    "area": "Chikmagalur",
+    "longitude": 75.797056,
+    "latitude": 13.328028,
+    "pm_value_used": 20.4,
+    "aqi": 34,
+    "category": "Good"
+  },
+  "10645": {
+    "city": "Hajipur",
+    "state": "Bihar",
+    "area": "Vaishali",
+    "longitude": 85.2459,
+    "latitude": 25.697189,
+    "pm_value_used": 79.81,
+    "aqi": 165,
+    "category": "Moderately Polluted"
+  },
+  "6945": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8888,
+    "latitude": 19.0863,
+    "pm_value_used": 72.0,
+    "aqi": 139,
+    "category": "Moderately Polluted"
+  },
+  "3409392": {
+    "city": "Yanamalakuduru",
+    "state": "Andhra Pradesh",
+    "area": "Krishna",
+    "longitude": 80.69943599999999,
+    "latitude": 16.486692,
+    "pm_value_used": 44.46,
+    "aqi": 74,
+    "category": "Satisfactory"
+  },
+  "3409385": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.502466,
+    "latitude": 12.921418,
+    "pm_value_used": 13.22,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "3409513": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.85673,
+    "latitude": 19.000084,
+    "pm_value_used": 14.21,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "17": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.186937,
+    "latitude": 28.563262,
+    "pm_value_used": 201.0,
+    "aqi": 362,
+    "category": "Very Poor"
+  },
+  "5602": {
+    "city": "Asansol",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 86.945968,
+    "latitude": 23.685297,
+    "pm_value_used": 43.74,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "5570": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 77.131606,
+    "latitude": 28.474261,
+    "pm_value_used": 54.86,
+    "aqi": 91,
+    "category": "Satisfactory"
+  },
+  "3409514": {
+    "city": "Powai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.920967,
+    "latitude": 19.083694,
+    "pm_value_used": 8.88,
+    "aqi": 15,
+    "category": "Good"
+  },
+  "3409335": {
+    "city": "Hassan",
+    "state": "Karnataka",
+    "area": "Hassan",
+    "longitude": 76.125258,
+    "latitude": 13.008556,
+    "pm_value_used": 985.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "8475": {
+    "city": "Loni",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.249485,
+    "latitude": 28.710508,
+    "pm_value_used": 310.0,
+    "aqi": 409,
+    "category": "Severe"
+  },
+  "7005": {
+    "city": "Loni",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.278792,
+    "latitude": 28.757294,
+    "pm_value_used": 50.0,
+    "aqi": 83,
+    "category": "Satisfactory"
+  },
+  "3409339": {
+    "city": "Buxar",
+    "state": "Bihar",
+    "area": "Buxar",
+    "longitude": 83.950942,
+    "latitude": 25.555605,
+    "pm_value_used": 24.0,
+    "aqi": 40,
+    "category": "Good"
+  },
+  "5633": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.7994901,
+    "latitude": 26.9164092,
+    "pm_value_used": 37.4,
+    "aqi": 62,
+    "category": "Satisfactory"
+  },
+  "3409468": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "area": "Nagpur Division",
+    "longitude": 79.107595,
+    "latitude": 21.14472,
+    "pm_value_used": 19.63,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "3409348": {
+    "city": "Tirupparangunram",
+    "state": "Tamil Nadu",
+    "area": "Madurai",
+    "longitude": 78.022669,
+    "latitude": 9.865935,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "3409395": {
+    "city": "Banposh",
+    "state": "Odisha",
+    "area": "Sundargarh",
+    "longitude": 84.88111111,
+    "latitude": 22.245,
+    "pm_value_used": 29.81,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "10895": {
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "area": "East Khasi Hills",
+    "longitude": 91.8985,
+    "latitude": 25.5586,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "6969": {
+    "city": "Fatehabad",
+    "state": "Haryana",
+    "area": "Fatehabad District",
+    "longitude": 75.467934,
+    "latitude": 29.503664,
+    "pm_value_used": 233.6,
+    "aqi": 387,
+    "category": "Very Poor"
+  },
+  "3409503": {
+    "city": "Bada Barabil",
+    "state": "Odisha",
+    "area": "Kendujhar",
+    "longitude": 85.3945546,
+    "latitude": 22.1166054,
+    "pm_value_used": 20.0,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "6942": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.6435,
+    "latitude": 22.969611,
+    "pm_value_used": 57.04,
+    "aqi": 95,
+    "category": "Satisfactory"
+  },
+  "3409340": {
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "area": "East District",
+    "longitude": 88.614099,
+    "latitude": 27.33853,
+    "pm_value_used": 10.74,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "227536": {
+    "city": "Adalaj",
+    "state": "Gujarat",
+    "area": "Gandhinagar",
+    "longitude": 72.574648,
+    "latitude": 23.107969,
+    "pm_value_used": 16.44,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "3409369": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "area": "Gwalior",
+    "longitude": 78.14771400000001,
+    "latitude": 26.200388,
+    "pm_value_used": 35.0,
+    "aqi": 58,
+    "category": "Satisfactory"
+  },
+  "3409522": {
+    "city": "Raniganj",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 87.105718,
+    "latitude": 23.618183,
+    "pm_value_used": 6.83,
+    "aqi": 11,
+    "category": "Good"
+  },
+  "270704": {
+    "city": "Munger",
+    "state": "Bihar",
+    "area": "Munger",
+    "longitude": 86.471523,
+    "latitude": 25.376776,
+    "pm_value_used": 36.0,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "352465": {
+    "city": "Gaddi Annaram",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.50864,
+    "latitude": 17.37206,
+    "pm_value_used": 19.67,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "11613": {
+    "city": "Shivaji Nagar",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.849598,
+    "latitude": 18.530085,
+    "pm_value_used": 33.3,
+    "aqi": 55,
+    "category": "Satisfactory"
+  },
+  "3409359": {
+    "city": "Hubli",
+    "state": "Karnataka",
+    "area": "Dharwad",
+    "longitude": 75.008381,
+    "latitude": 15.459706,
+    "pm_value_used": 29.94,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "3409411": {
+    "city": "Raha",
+    "state": "Assam",
+    "area": "Nagaon",
+    "longitude": 92.68449,
+    "latitude": 26.349082,
+    "pm_value_used": 31.0,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "6988": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.393848,
+    "latitude": 28.56923,
+    "pm_value_used": 67.0,
+    "aqi": 121,
+    "category": "Moderately Polluted"
+  },
+  "228300": {
+    "city": "Sarkhej",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.515201,
+    "latitude": 23.023389,
+    "pm_value_used": 36.62,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "10725": {
+    "city": "Charkhi Dadri",
+    "state": "Haryana",
+    "area": "Bhiwani",
+    "longitude": 76.270653,
+    "latitude": 28.593883,
+    "pm_value_used": 136.0,
+    "aqi": 313,
+    "category": "Very Poor"
+  },
+  "3409426": {
+    "city": "Pratapgarh",
+    "state": "Rajasthan",
+    "area": "Pratapgarh",
+    "longitude": 74.780702,
+    "latitude": 24.041198,
+    "pm_value_used": 31.0,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "60658": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.927532,
+    "latitude": 18.501793,
+    "pm_value_used": 31.47,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "3409484": {
+    "city": "Ulhasnagar",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.159121,
+    "latitude": 19.235581,
+    "pm_value_used": 17.86,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "5662": {
+    "city": "Nawabganj",
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "longitude": 80.3229863,
+    "latitude": 26.4703136,
+    "pm_value_used": 51.0,
+    "aqi": 85,
+    "category": "Satisfactory"
+  },
+  "3409428": {
+    "city": "Karauli",
+    "state": "Rajasthan",
+    "area": "Karauli",
+    "longitude": 77.025989,
+    "latitude": 26.506177,
+    "pm_value_used": 41.0,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "3409435": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.82487,
+    "latitude": 18.63673,
+    "pm_value_used": 21.76,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "358450": {
+    "city": "Ooty",
+    "state": "Tamil Nadu",
+    "area": "Nilgiri",
+    "longitude": 76.7138973,
+    "latitude": 11.4068288,
+    "pm_value_used": 12.0,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "3409518": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "area": "Krishna",
+    "longitude": 80.64911,
+    "latitude": 16.554731,
+    "pm_value_used": 34.27,
+    "aqi": 57,
+    "category": "Satisfactory"
+  },
+  "6981": {
+    "city": "Bara Bazar",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.342674,
+    "latitude": 22.55664,
+    "pm_value_used": 45.24,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "10909": {
+    "city": "Ramanagaram",
+    "state": "Karnataka",
+    "area": "Ramanagara",
+    "longitude": 77.298051,
+    "latitude": 12.733409,
+    "pm_value_used": 37.0,
+    "aqi": 61,
+    "category": "Satisfactory"
+  },
+  "3409431": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "longitude": 73.08228299999999,
+    "latitude": 26.295809999999996,
+    "pm_value_used": 17.0,
+    "aqi": 28,
+    "category": "Good"
+  },
+  "3409466": {
+    "city": "Parbhani",
+    "state": "Maharashtra",
+    "area": "Parbhani",
+    "longitude": 76.761463,
+    "latitude": 19.265594,
+    "pm_value_used": 26.69,
+    "aqi": 44,
+    "category": "Good"
+  },
+  "5667": {
+    "city": "Dewas",
+    "state": "Madhya Pradesh",
+    "area": "Dewas",
+    "longitude": 76.064118,
+    "latitude": 22.9682591,
+    "pm_value_used": 27.0,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "270727": {
+    "city": "Kishanganj",
+    "state": "West Bengal",
+    "area": "",
+    "longitude": 87.93840336,
+    "latitude": 26.0881305,
+    "pm_value_used": 73.0,
+    "aqi": 142,
+    "category": "Moderately Polluted"
+  },
+  "234568": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "longitude": 80.327067,
+    "latitude": 26.428282,
+    "pm_value_used": 153.98,
+    "aqi": 326,
+    "category": "Very Poor"
+  },
+  "233414": {
+    "city": "Vrindavan",
+    "state": "Uttar Pradesh",
+    "area": "Mathura",
+    "longitude": 77.655757,
+    "latitude": 27.571409000000003,
+    "pm_value_used": 67.8,
+    "aqi": 124,
+    "category": "Moderately Polluted"
+  },
+  "3409455": {
+    "city": "Mahad",
+    "state": "Maharashtra",
+    "area": "Raigarh",
+    "longitude": 73.4783687,
+    "latitude": 18.1023399,
+    "pm_value_used": 27.3,
+    "aqi": 46,
+    "category": "Good"
+  },
+  "3409407": {
+    "city": "Tonk",
+    "state": "Rajasthan",
+    "area": "Tonk",
+    "longitude": 75.780517,
+    "latitude": 26.159933,
+    "pm_value_used": 39.0,
+    "aqi": 65,
+    "category": "Satisfactory"
+  },
+  "3409473": {
+    "city": "Dhule",
+    "state": "Maharashtra",
+    "area": "Dhule",
+    "longitude": 74.776388,
+    "latitude": 20.918946,
+    "pm_value_used": 16.13,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "3409320": {
+    "city": "Baranagar",
+    "state": "West Bengal",
+    "area": "North 24 Parganas",
+    "longitude": 88.3804,
+    "latitude": 22.627875,
+    "pm_value_used": 32.48,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "3409321": {
+    "city": "Haldia",
+    "state": "West Bengal",
+    "area": "Purba Medinipur",
+    "longitude": 88.109737,
+    "latitude": 22.06047,
+    "pm_value_used": 47.82,
+    "aqi": 79,
+    "category": "Satisfactory"
+  },
+  "270877": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.69753100000001,
+    "latitude": 28.840739000000003,
+    "pm_value_used": 48.0,
+    "aqi": 80,
+    "category": "Satisfactory"
+  },
+  "301390": {
+    "city": "Agartala",
+    "state": "Tripura",
+    "area": "West Tripura",
+    "longitude": 91.2726974,
+    "latitude": 23.8175497,
+    "pm_value_used": 19.1,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "50": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.131023,
+    "latitude": 28.674045,
+    "pm_value_used": 84.0,
+    "aqi": 180,
+    "category": "Moderately Polluted"
+  },
+  "270775": {
+    "city": "Araria",
+    "state": "Bihar",
+    "area": "Araria",
+    "longitude": 87.454184,
+    "latitude": 26.146529,
+    "pm_value_used": 156.0,
+    "aqi": 328,
+    "category": "Very Poor"
+  },
+  "6968": {
+    "city": "Vapi",
+    "state": "Gujarat",
+    "area": "Valsad",
+    "longitude": 72.918013,
+    "latitude": 20.362421,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "3409338": {
+    "city": "Begusarai",
+    "state": "Bihar",
+    "area": "Begusarai",
+    "longitude": 86.140169,
+    "latitude": 25.444266,
+    "pm_value_used": 32.0,
+    "aqi": 53,
+    "category": "Satisfactory"
+  },
+  "270737": {
+    "city": "Ramnagar",
+    "state": "Bihar",
+    "area": "Pashchim Champaran",
+    "longitude": 84.529114,
+    "latitude": 27.307773,
+    "pm_value_used": 4.0,
+    "aqi": 7,
+    "category": "Good"
+  },
+  "6986": {
+    "city": "Dadri",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.453663,
+    "latitude": 28.557054,
+    "pm_value_used": 152.0,
+    "aqi": 325,
+    "category": "Very Poor"
+  },
+  "8365": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.250515,
+    "latitude": 28.56789,
+    "pm_value_used": 280.0,
+    "aqi": 405,
+    "category": "Severe"
+  },
+  "7880": {
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "area": "Aizawl",
+    "longitude": 92.7192841,
+    "latitude": 23.7176342,
+    "pm_value_used": 3.14,
+    "aqi": 5,
+    "category": "Good"
+  },
+  "270720": {
+    "city": "Katihar",
+    "state": "Bihar",
+    "area": "Katihar",
+    "longitude": 87.553265,
+    "latitude": 25.560083,
+    "pm_value_used": 10.0,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "3409374": {
+    "city": "Morar",
+    "state": "Madhya Pradesh",
+    "area": "Gwalior",
+    "longitude": 78.216432,
+    "latitude": 26.259241999999997,
+    "pm_value_used": 46.0,
+    "aqi": 76,
+    "category": "Satisfactory"
+  },
+  "3409421": {
+    "city": "Sawai Madhopur",
+    "state": "Rajasthan",
+    "area": "Sawai Madhopur",
+    "longitude": 76.35932700000001,
+    "latitude": 26.031443,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409398": {
+    "city": "Gharghoda",
+    "state": "Chhattisgarh",
+    "area": "Raigarh",
+    "longitude": 83.5197009,
+    "latitude": 22.191017199999997,
+    "pm_value_used": 14.62,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "3409440": {
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "area": "Kolhapur",
+    "longitude": 74.2505872,
+    "latitude": 16.6870449,
+    "pm_value_used": 10.24,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "5622": {
+    "city": "Nangloi Jat",
+    "state": "NCT",
+    "area": "West Delhi",
+    "longitude": 77.0325413,
+    "latitude": 28.60909,
+    "pm_value_used": 68.8,
+    "aqi": 128,
+    "category": "Moderately Polluted"
+  },
+  "270703": {
+    "city": "Dehri",
+    "state": "Bihar",
+    "area": "Rohtas",
+    "longitude": 84.00239599999999,
+    "latitude": 24.952822,
+    "pm_value_used": 18.0,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "3409432": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.771817,
+    "latitude": 26.960669,
+    "pm_value_used": 49.0,
+    "aqi": 81,
+    "category": "Satisfactory"
+  },
+  "344144": {
+    "city": "Sangareddi",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.126199,
+    "latitude": 17.585704999999997,
+    "pm_value_used": 19.35,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "6443": {
+    "city": "Satna",
+    "state": "Madhya Pradesh",
+    "area": "Satna",
+    "longitude": 80.8549414,
+    "latitude": 24.58434363,
+    "pm_value_used": 29.24,
+    "aqi": 49,
+    "category": "Good"
+  },
+  "10911": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "area": "Jabalpur",
+    "longitude": 79.932247,
+    "latitude": 23.168606,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "12046": {
+    "city": "Perungudi",
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "longitude": 80.2357,
+    "latitude": 12.9533,
+    "pm_value_used": 14.0,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "3409383": {
+    "city": "Barbil",
+    "state": "Odisha",
+    "area": "Kendujhar",
+    "longitude": 85.510538,
+    "latitude": 21.606865,
+    "pm_value_used": 29.29,
+    "aqi": 49,
+    "category": "Good"
+  },
+  "228352": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 77.92066,
+    "latitude": 27.198620000000002,
+    "pm_value_used": 25.3,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "3409475": {
+    "city": "Panvel",
+    "state": "Maharashtra",
+    "area": "Raigarh",
+    "longitude": 73.1209,
+    "latitude": 19.063,
+    "pm_value_used": 17.69,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "346439": {
+    "city": "Khurja",
+    "state": "Uttar Pradesh",
+    "area": "Bulandshahr",
+    "longitude": 77.8683002,
+    "latitude": 28.234892699999996,
+    "pm_value_used": 3.0,
+    "aqi": 5,
+    "category": "Good"
+  },
+  "227386": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.927299,
+    "latitude": 26.766433000000003,
+    "pm_value_used": 67.28,
+    "aqi": 122,
+    "category": "Moderately Polluted"
+  },
+  "3409436": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.77946,
+    "latitude": 18.59051,
+    "pm_value_used": 10.51,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "3409493": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "area": "Krishna",
+    "longitude": 80.612222,
+    "latitude": 16.509717,
+    "pm_value_used": 50.18,
+    "aqi": 83,
+    "category": "Satisfactory"
+  },
+  "5627": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.2735737,
+    "latitude": 28.5512005,
+    "pm_value_used": 74.47,
+    "aqi": 147,
+    "category": "Moderately Polluted"
+  },
+  "3409381": {
+    "city": "Kiri Buru",
+    "state": "Odisha",
+    "area": "Kendujhar",
+    "longitude": 85.416905,
+    "latitude": 21.847279,
+    "pm_value_used": 30.0,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "5587": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "longitude": 73.0193853,
+    "latitude": 26.268249,
+    "pm_value_used": 24.5,
+    "aqi": 41,
+    "category": "Good"
+  },
+  "6966": {
+    "city": "Elur",
+    "state": "Kerala",
+    "area": "Ernakulam",
+    "longitude": 76.302765,
+    "latitude": 10.073232,
+    "pm_value_used": 26.63,
+    "aqi": 44,
+    "category": "Good"
+  },
+  "8235": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.170633,
+    "latitude": 28.73282,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "6973": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.584908,
+    "latitude": 12.920984,
+    "pm_value_used": 44.0,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "60659": {
+    "city": "Puducherry",
+    "state": "Pondicherry",
+    "area": "Puducherry",
+    "longitude": 79.8027,
+    "latitude": 11.9309,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "3409317": {
+    "city": "Chandrapur",
+    "state": "Maharashtra",
+    "area": "Chandrapur",
+    "longitude": 79.298714,
+    "latitude": 19.9629,
+    "pm_value_used": 27.0,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "10920": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.30059,
+    "latitude": 28.39072,
+    "pm_value_used": 74.2,
+    "aqi": 146,
+    "category": "Moderately Polluted"
+  },
+  "358467": {
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "area": "Bareilly",
+    "longitude": 79.414455,
+    "latitude": 28.359581,
+    "pm_value_used": 40.95,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "3409404": {
+    "city": "Churu",
+    "state": "Rajasthan",
+    "area": "Churu",
+    "longitude": 74.96169599999999,
+    "latitude": 28.296139,
+    "pm_value_used": 26.0,
+    "aqi": 43,
+    "category": "Good"
+  },
+  "228397": {
+    "city": "Ramnagar",
+    "state": "Uttar Pradesh",
+    "area": "Varanasi",
+    "longitude": 82.995408,
+    "latitude": 25.262326,
+    "pm_value_used": 14.22,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "3409523": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.749976,
+    "latitude": 18.60577,
+    "pm_value_used": 2.15,
+    "aqi": 4,
+    "category": "Good"
+  },
+  "8153": {
+    "city": "Naduvattam",
+    "state": "Tamil Nadu",
+    "area": "Nilgiri",
+    "longitude": 76.55521,
+    "latitude": 11.55358,
+    "pm_value_used": 10.7,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "5592": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "area": "Nashik Division",
+    "longitude": 73.7762427,
+    "latitude": 20.0073285,
+    "pm_value_used": 15.05,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "358451": {
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "area": "Vellore",
+    "longitude": 79.131861,
+    "latitude": 12.909494,
+    "pm_value_used": 62.0,
+    "aqi": 104,
+    "category": "Moderately Polluted"
+  },
+  "7494": {
+    "city": "Gaya",
+    "state": "Bihar",
+    "area": "Gaya",
+    "longitude": 84.982348,
+    "latitude": 24.762518,
+    "pm_value_used": 32.1,
+    "aqi": 53,
+    "category": "Satisfactory"
+  },
+  "8172": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.36304,
+    "latitude": 22.56263,
+    "pm_value_used": -999.0,
+    "aqi": -1689,
+    "category": "Good"
+  },
+  "3409433": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.827928,
+    "latitude": 26.786682,
+    "pm_value_used": 63.0,
+    "aqi": 108,
+    "category": "Moderately Polluted"
+  },
+  "5621": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "area": "Nagpur Division",
+    "longitude": 79.0517531,
+    "latitude": 21.152875,
+    "pm_value_used": 25.03,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "278671": {
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "area": "Jhansi",
+    "longitude": 78.6039,
+    "latitude": 25.4547,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "3409379": {
+    "city": "Kuchaiburi",
+    "state": "Odisha",
+    "area": "Mayurbhanj",
+    "longitude": 86.174829,
+    "latitude": 22.265816,
+    "pm_value_used": 32.12,
+    "aqi": 53,
+    "category": "Satisfactory"
+  },
+  "3409399": {
+    "city": "Gharghoda",
+    "state": "Chhattisgarh",
+    "area": "Raigarh",
+    "longitude": 83.33820077,
+    "latitude": 22.06631475,
+    "pm_value_used": 14.71,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "3409355": {
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "area": "Salem",
+    "longitude": 78.125052,
+    "latitude": 11.679111,
+    "pm_value_used": 34.0,
+    "aqi": 56,
+    "category": "Satisfactory"
+  },
+  "10747": {
+    "city": "Cannanore",
+    "state": "Kerala",
+    "area": "Kannur",
+    "longitude": 75.3732,
+    "latitude": 11.875,
+    "pm_value_used": 18.04,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "3409464": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "area": "Nagpur Division",
+    "longitude": 79.04952,
+    "latitude": 21.121801,
+    "pm_value_used": 18.1,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "3409489": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "area": "Jabalpur",
+    "longitude": 79.916147,
+    "latitude": 23.142888,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "3409472": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.957979,
+    "latitude": 19.222279,
+    "pm_value_used": 13.96,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "3409350": {
+    "city": "Nagappattinam",
+    "state": "Tamil Nadu",
+    "area": "Nagapattinam",
+    "longitude": 79.838212,
+    "latitude": 10.798548,
+    "pm_value_used": 985.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "3409470": {
+    "city": "Badlapur",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.23409,
+    "latitude": 19.16485,
+    "pm_value_used": 25.41,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "6961": {
+    "city": "Damoh",
+    "state": "Madhya Pradesh",
+    "area": "Damoh",
+    "longitude": 79.446246,
+    "latitude": 23.81748678,
+    "pm_value_used": 15.31,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "10908": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.315741,
+    "latitude": 28.376058,
+    "pm_value_used": 77.8,
+    "aqi": 158,
+    "category": "Moderately Polluted"
+  },
+  "42240": {
+    "city": "Guwahati",
+    "state": "Assam",
+    "area": "Kamrup Metropolitan",
+    "longitude": 91.744194,
+    "latitude": 26.1875,
+    "pm_value_used": 7.15,
+    "aqi": 12,
+    "category": "Good"
+  },
+  "270777": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.772638,
+    "latitude": 28.856664000000002,
+    "pm_value_used": 52.13,
+    "aqi": 87,
+    "category": "Satisfactory"
+  },
+  "6938": {
+    "city": "Loni",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.31526,
+    "latitude": 28.672342,
+    "pm_value_used": 287.0,
+    "aqi": 406,
+    "category": "Severe"
+  },
+  "3409443": {
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "area": "Bundi",
+    "longitude": 75.644272,
+    "latitude": 25.435774,
+    "pm_value_used": 14.0,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "6933": {
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "area": "Ratlam",
+    "longitude": 75.045981,
+    "latitude": 23.331731,
+    "pm_value_used": 31.93,
+    "aqi": 53,
+    "category": "Satisfactory"
+  },
+  "5614": {
+    "city": "Bankra",
+    "state": "West Bengal",
+    "area": "Haora",
+    "longitude": 88.2797276,
+    "latitude": 22.5687319,
+    "pm_value_used": 40.8,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "11578": {
+    "city": "George Town",
+    "state": "Tamil Nadu",
+    "area": "Chennai",
+    "longitude": 80.2909,
+    "latitude": 13.1036,
+    "pm_value_used": 2.0,
+    "aqi": 3,
+    "category": "Good"
+  },
+  "301389": {
+    "city": "Baddi",
+    "state": "Himachal Pradesh",
+    "area": "Solan",
+    "longitude": 76.801991,
+    "latitude": 30.943887,
+    "pm_value_used": 25.0,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "3409441": {
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "area": "Kolhapur",
+    "longitude": 74.2426398,
+    "latitude": 16.7143745,
+    "pm_value_used": 20.04,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "11579": {
+    "city": "Chinnasekkadu",
+    "state": "Tamil Nadu",
+    "area": "Thiruvallur",
+    "longitude": 80.2642,
+    "latitude": 13.1278,
+    "pm_value_used": 22.2,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "229728": {
+    "city": "Bettiah",
+    "state": "Bihar",
+    "area": "Pashchim Champaran",
+    "longitude": 84.51954,
+    "latitude": 26.80365,
+    "pm_value_used": 65.0,
+    "aqi": 115,
+    "category": "Moderately Polluted"
+  },
+  "5542": {
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "area": "Jalandhar",
+    "longitude": 75.578914,
+    "latitude": 31.321907,
+    "pm_value_used": 55.86,
+    "aqi": 93,
+    "category": "Satisfactory"
+  },
+  "8319": {
+    "city": "Hapur",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.749675,
+    "latitude": 28.725645,
+    "pm_value_used": 166.0,
+    "aqi": 336,
+    "category": "Very Poor"
+  },
+  "10912": {
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "area": "Gwalior",
+    "longitude": 78.171,
+    "latitude": 26.210536,
+    "pm_value_used": 4.54,
+    "aqi": 8,
+    "category": "Good"
+  },
+  "3409387": {
+    "city": "Hubli",
+    "state": "Karnataka",
+    "area": "Dharwad",
+    "longitude": 75.1160168,
+    "latitude": 15.3714823,
+    "pm_value_used": 22.79,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409519": {
+    "city": "Bhiwadi",
+    "state": "Rajasthan",
+    "area": "Alwar",
+    "longitude": 76.829265,
+    "latitude": 28.207266,
+    "pm_value_used": 33.0,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "3409512": {
+    "city": "Borivli",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.831718,
+    "latitude": 19.215859,
+    "pm_value_used": 8.71,
+    "aqi": 15,
+    "category": "Good"
+  },
+  "11582": {
+    "city": "Madikeri",
+    "state": "Karnataka",
+    "area": "Kodagu",
+    "longitude": 75.73505,
+    "latitude": 12.415911,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "11606": {
+    "city": "Borivli",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.86895,
+    "latitude": 19.23241,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "3409386": {
+    "city": "Gulbarga",
+    "state": "Karnataka",
+    "area": "Gulbarga",
+    "longitude": 76.847397,
+    "latitude": 17.336318,
+    "pm_value_used": 15.16,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "3410005": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.852193,
+    "latitude": 18.459883,
+    "pm_value_used": 19.71,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "270774": {
+    "city": "Ara",
+    "state": "Bihar",
+    "area": "Bhojpur",
+    "longitude": 84.663264,
+    "latitude": 25.5626095,
+    "pm_value_used": 91.0,
+    "aqi": 201,
+    "category": "Poor"
+  },
+  "6946": {
+    "city": "Chakapara",
+    "state": "West Bengal",
+    "area": "Haora",
+    "longitude": 88.352017,
+    "latitude": 22.629801,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "8914": {
+    "city": "Madukkarai",
+    "state": "Tamil Nadu",
+    "area": "Coimbatore",
+    "longitude": 76.978996,
+    "latitude": 10.942451,
+    "pm_value_used": 18.71,
+    "aqi": 31,
+    "category": "Good"
+  },
+  "270725": {
+    "city": "Purnia",
+    "state": "Bihar",
+    "area": "Purnia",
+    "longitude": 87.466829,
+    "latitude": 25.765657,
+    "pm_value_used": 37.0,
+    "aqi": 61,
+    "category": "Satisfactory"
+  },
+  "6957": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.233829,
+    "latitude": 28.58028,
+    "pm_value_used": 47.0,
+    "aqi": 78,
+    "category": "Satisfactory"
+  },
+  "3409456": {
+    "city": "Akola",
+    "state": "Maharashtra",
+    "area": "Akola",
+    "longitude": 77.000253,
+    "latitude": 20.719516,
+    "pm_value_used": 13.4,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "3409447": {
+    "city": "Baran",
+    "state": "Rajasthan",
+    "area": "Baran",
+    "longitude": 76.469948,
+    "latitude": 25.106006,
+    "pm_value_used": 12.0,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "3409423": {
+    "city": "Rajsamand",
+    "state": "Rajasthan",
+    "area": "Rajsamand",
+    "longitude": 73.88350200000001,
+    "latitude": 25.036360000000002,
+    "pm_value_used": 32.0,
+    "aqi": 53,
+    "category": "Satisfactory"
+  },
+  "3409517": {
+    "city": "Virudunagar",
+    "state": "Tamil Nadu",
+    "area": "Virudhunagar",
+    "longitude": 77.948828,
+    "latitude": 9.559382,
+    "pm_value_used": 990.0,
+    "aqi": 499,
+    "category": "Severe"
+  },
+  "10670": {
+    "city": "Patna",
+    "state": "Bihar",
+    "area": "Patna",
+    "longitude": 85.147382,
+    "latitude": 25.619651,
+    "pm_value_used": 29.8,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "6356": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.146262,
+    "latitude": 28.639645,
+    "pm_value_used": 45.0,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "10823": {
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "area": "Muzaffarpur",
+    "longitude": 85.39813,
+    "latitude": 26.11442,
+    "pm_value_used": 22.8,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "6947": {
+    "city": "Firozpur Jhirka",
+    "state": "Haryana",
+    "area": "Mewat",
+    "longitude": 76.9938,
+    "latitude": 27.9002,
+    "pm_value_used": 30.9,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "358452": {
+    "city": "Ramanathapuram",
+    "state": "Tamil Nadu",
+    "area": "Ramanathapuram",
+    "longitude": 78.831977,
+    "latitude": 9.36399,
+    "pm_value_used": 53.0,
+    "aqi": 88,
+    "category": "Satisfactory"
+  },
+  "8245": {
+    "city": "Sihora",
+    "state": "Madhya Pradesh",
+    "area": "Jabalpur",
+    "longitude": 80.23284,
+    "latitude": 23.50016,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409322": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.9585188,
+    "latitude": 19.192056,
+    "pm_value_used": 23.58,
+    "aqi": 39,
+    "category": "Good"
+  },
+  "6985": {
+    "city": "Bulandshahr",
+    "state": "Uttar Pradesh",
+    "area": "Bulandshahr",
+    "longitude": 77.849831,
+    "latitude": 28.406963,
+    "pm_value_used": 37.0,
+    "aqi": 61,
+    "category": "Satisfactory"
+  },
+  "3409510": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.838,
+    "latitude": 18.9767,
+    "pm_value_used": 11.8,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "3409406": {
+    "city": "Kota",
+    "state": "Rajasthan",
+    "area": "Kota",
+    "longitude": 75.85566800000001,
+    "latitude": 25.196023999999998,
+    "pm_value_used": 28.0,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "3409492": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "area": "Krishna",
+    "longitude": 80.594233,
+    "latitude": 16.536107,
+    "pm_value_used": 33.42,
+    "aqi": 55,
+    "category": "Satisfactory"
+  },
+  "5645": {
+    "city": "Patancheru",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.278777,
+    "latitude": 17.5184,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "270730": {
+    "city": "Rajgir",
+    "state": "Bihar",
+    "area": "Nalanda",
+    "longitude": 85.41948000000001,
+    "latitude": 25.0328,
+    "pm_value_used": 27.0,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "3409358": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "area": "Tiruchchirappalli",
+    "longitude": 78.691849,
+    "latitude": 10.830158,
+    "pm_value_used": 36.55,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "3409476": {
+    "city": "Artist Village",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.0406721,
+    "latitude": 19.0243902,
+    "pm_value_used": 25.98,
+    "aqi": 43,
+    "category": "Good"
+  },
+  "3409405": {
+    "city": "Dhaulpur",
+    "state": "Rajasthan",
+    "area": "Dhaulpur",
+    "longitude": 77.898881,
+    "latitude": 26.699557000000002,
+    "pm_value_used": 35.0,
+    "aqi": 58,
+    "category": "Satisfactory"
+  },
+  "229195": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "area": "Varanasi",
+    "longitude": 82.99687,
+    "latitude": 25.323929999999997,
+    "pm_value_used": 22.06,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "6956": {
+    "city": "Powai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.915056,
+    "latitude": 19.1375,
+    "pm_value_used": 28.0,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "5608": {
+    "city": "Brajarajnagar",
+    "state": "Odisha",
+    "area": "Jharsuguda",
+    "longitude": 83.8396977,
+    "latitude": 21.8004996,
+    "pm_value_used": 31.71,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "10844": {
+    "city": "Chakapara",
+    "state": "West Bengal",
+    "area": "Haora",
+    "longitude": 88.347422,
+    "latitude": 22.611968,
+    "pm_value_used": 51.89,
+    "aqi": 86,
+    "category": "Satisfactory"
+  },
+  "5408": {
+    "city": "Tadepalle",
+    "state": "Andhra Pradesh",
+    "area": "Guntur",
+    "longitude": 80.5181667,
+    "latitude": 16.5150833,
+    "pm_value_used": 20.0,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "860": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 78.00598056,
+    "latitude": 27.19865833,
+    "pm_value_used": 124.0,
+    "aqi": 303,
+    "category": "Very Poor"
+  },
+  "3409402": {
+    "city": "Bharatpur",
+    "state": "Rajasthan",
+    "area": "Bharatpur",
+    "longitude": 77.50873,
+    "latitude": 27.215415000000004,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "3409488": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "area": "Jabalpur",
+    "longitude": 79.95777,
+    "latitude": 23.218135,
+    "pm_value_used": 10.0,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "5404": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.146263,
+    "latitude": 28.639645,
+    "pm_value_used": 109.48,
+    "aqi": 264,
+    "category": "Poor"
+  },
+  "5559": {
+    "city": "Gaya",
+    "state": "Bihar",
+    "area": "Gaya",
+    "longitude": 84.9994,
+    "latitude": 24.7955,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "3409501": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.8076,
+    "latitude": 22.7289,
+    "pm_value_used": 134.9,
+    "aqi": 312,
+    "category": "Very Poor"
+  },
+  "229729": {
+    "city": "Firozabad",
+    "state": "Uttar Pradesh",
+    "area": "Firozabad",
+    "longitude": 78.37696,
+    "latitude": 27.168896999999998,
+    "pm_value_used": 28.74,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "344103": {
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.566959,
+    "latitude": 17.470431,
+    "pm_value_used": 21.93,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "6943": {
+    "city": "Airoli",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.008978,
+    "latitude": 19.1135051,
+    "pm_value_used": 40.0,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "3409329": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.923,
+    "latitude": 19.04946,
+    "pm_value_used": 13.78,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "5638": {
+    "city": "Pali",
+    "state": "Rajasthan",
+    "area": "Pali",
+    "longitude": 73.340227,
+    "latitude": 25.771061,
+    "pm_value_used": 30.1,
+    "aqi": 49,
+    "category": "Good"
+  },
+  "3409377": {
+    "city": "Remuna",
+    "state": "Odisha",
+    "area": "Baleshwar",
+    "longitude": 86.728318,
+    "latitude": 21.941841,
+    "pm_value_used": 41.07,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "11609": {
+    "city": "Lohogaon",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.927715,
+    "latitude": 18.57304,
+    "pm_value_used": 19.86,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "3409446": {
+    "city": "Sangli",
+    "state": "Maharashtra",
+    "area": "Sangli",
+    "longitude": 74.615091,
+    "latitude": 16.843813,
+    "pm_value_used": 17.31,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "236406": {
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "area": "Bilaspur",
+    "longitude": 82.13736999999999,
+    "latitude": 22.08815,
+    "pm_value_used": 28.75,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "5541": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.2011573,
+    "latitude": 28.7256504,
+    "pm_value_used": 78.42,
+    "aqi": 160,
+    "category": "Moderately Polluted"
+  },
+  "346438": {
+    "city": "Bareilly",
+    "state": "Uttar Pradesh",
+    "area": "Bareilly",
+    "longitude": 79.42963708,
+    "latitude": 28.38910936,
+    "pm_value_used": 63.05,
+    "aqi": 108,
+    "category": "Moderately Polluted"
+  },
+  "3409378": {
+    "city": "Barbil",
+    "state": "Odisha",
+    "area": "Kendujhar",
+    "longitude": 85.599355,
+    "latitude": 21.6439,
+    "pm_value_used": 20.48,
+    "aqi": 34,
+    "category": "Good"
+  },
+  "3409343": {
+    "city": "Ariyalur",
+    "state": "Tamil Nadu",
+    "area": "Ariyalur",
+    "longitude": 79.07033,
+    "latitude": 11.06825,
+    "pm_value_used": 494.5,
+    "aqi": 433,
+    "category": "Severe"
+  },
+  "5598": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.3231257,
+    "latitude": 28.5447608,
+    "pm_value_used": 62.0,
+    "aqi": 104,
+    "category": "Moderately Polluted"
+  },
+  "3410004": {
+    "city": "Taoru",
+    "state": "Haryana",
+    "area": "Mewat",
+    "longitude": 76.9143,
+    "latitude": 28.3153,
+    "pm_value_used": 148.9,
+    "aqi": 322,
+    "category": "Very Poor"
+  },
+  "3409389": {
+    "city": "Tumkur",
+    "state": "Karnataka",
+    "area": "Tumkur",
+    "longitude": 77.09907199999999,
+    "latitude": 13.377516,
+    "pm_value_used": 15.05,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "5594": {
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "area": "Muzaffarpur",
+    "longitude": 85.3647,
+    "latitude": 26.1209,
+    "pm_value_used": 36.0,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "3409442": {
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "area": "Bhilwara",
+    "longitude": 74.618883,
+    "latitude": 25.339605,
+    "pm_value_used": 25.0,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "5760": {
+    "city": "Farrukhnagar",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 76.8023871,
+    "latitude": 28.5206826,
+    "pm_value_used": 67.0,
+    "aqi": 121,
+    "category": "Moderately Polluted"
+  },
+  "8558": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "area": "Chennai",
+    "longitude": 80.278475,
+    "latitude": 13.08784,
+    "pm_value_used": 21.0,
+    "aqi": 35,
+    "category": "Good"
+  },
+  "3409345": {
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "area": "Thanjavur",
+    "longitude": 79.1389968,
+    "latitude": 10.7654824,
+    "pm_value_used": 444.25,
+    "aqi": 427,
+    "category": "Severe"
+  },
+  "5650": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1180053,
+    "latitude": 28.5627763,
+    "pm_value_used": 80.66,
+    "aqi": 168,
+    "category": "Moderately Polluted"
+  },
+  "301670": {
+    "city": "Yadgir",
+    "state": "Karnataka",
+    "area": "Yadgir",
+    "longitude": 77.1428,
+    "latitude": 16.7602,
+    "pm_value_used": 16.0,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "3409351": {
+    "city": "Arcot",
+    "state": "Tamil Nadu",
+    "area": "Vellore",
+    "longitude": 79.30394,
+    "latitude": 12.952707,
+    "pm_value_used": 47.0,
+    "aqi": 78,
+    "category": "Satisfactory"
+  },
+  "3409380": {
+    "city": "Bada Barabil",
+    "state": "Odisha",
+    "area": "Kendujhar",
+    "longitude": 85.47409613,
+    "latitude": 22.06156703,
+    "pm_value_used": 32.78,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "3409362": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "area": "Raipur",
+    "longitude": 81.664929,
+    "latitude": 21.371751,
+    "pm_value_used": 26.98,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "6983": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.5901,
+    "latitude": 12.938539,
+    "pm_value_used": 18.0,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "3409495": {
+    "city": "Jalor",
+    "state": "Rajasthan",
+    "area": "Jalore",
+    "longitude": 72.626208,
+    "latitude": 25.344694,
+    "pm_value_used": 28.0,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "352777": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.742362,
+    "latitude": 28.849399,
+    "pm_value_used": 40.28,
+    "aqi": 67,
+    "category": "Satisfactory"
+  },
+  "10918": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.3638022,
+    "latitude": 22.5367507,
+    "pm_value_used": 44.0,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "6948": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.87462,
+    "latitude": 19.10078,
+    "pm_value_used": 44.0,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "3409420": {
+    "city": "Hanumangarh",
+    "state": "Rajasthan",
+    "area": "Hanumangarh",
+    "longitude": 74.283608,
+    "latitude": 29.61075,
+    "pm_value_used": 37.0,
+    "aqi": 61,
+    "category": "Satisfactory"
+  },
+  "6937": {
+    "city": "Ghandinagar",
+    "state": "Gujarat",
+    "area": "Gandhinagar",
+    "longitude": 72.654328,
+    "latitude": 23.221714,
+    "pm_value_used": 15.12,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "301387": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "area": "Ahmadabad",
+    "longitude": 72.579261,
+    "latitude": 23.020509,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "3409341": {
+    "city": "Imphal",
+    "state": "Manipur",
+    "area": "Imphal East",
+    "longitude": 93.9286218,
+    "latitude": 24.752423899999997,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "6936": {
+    "city": "Bahadurgarh",
+    "state": "Haryana",
+    "area": "Jhajjar",
+    "longitude": 76.9254,
+    "latitude": 28.6701,
+    "pm_value_used": 109.9,
+    "aqi": 266,
+    "category": "Poor"
+  },
+  "229252": {
+    "city": "Nawabganj",
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "longitude": 80.249612,
+    "latitude": 26.509953999999997,
+    "pm_value_used": 132.86,
+    "aqi": 310,
+    "category": "Very Poor"
+  },
+  "3409357": {
+    "city": "Karur",
+    "state": "Tamil Nadu",
+    "area": "Karur",
+    "longitude": 78.080882,
+    "latitude": 10.96782,
+    "pm_value_used": 38.0,
+    "aqi": 63,
+    "category": "Satisfactory"
+  },
+  "5630": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1473105,
+    "latitude": 28.6514781,
+    "pm_value_used": 139.2,
+    "aqi": 315,
+    "category": "Very Poor"
+  },
+  "3409445": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "longitude": 73.047444,
+    "latitude": 26.358805,
+    "pm_value_used": 31.0,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "3409504": {
+    "city": "Angul",
+    "state": "Odisha",
+    "area": "Angul District",
+    "longitude": 85.104082,
+    "latitude": 20.832874,
+    "pm_value_used": 28.0,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "5624": {
+    "city": "Patancheru",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.218939,
+    "latitude": 17.5316895,
+    "pm_value_used": 85.0,
+    "aqi": 183,
+    "category": "Moderately Polluted"
+  },
+  "5588": {
+    "city": "Bhiwadi",
+    "state": "Rajasthan",
+    "area": "Alwar",
+    "longitude": 76.862296,
+    "latitude": 28.194909,
+    "pm_value_used": 42.37,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "6359": {
+    "city": "Loni",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.3025234,
+    "latitude": 28.6811736,
+    "pm_value_used": 158.0,
+    "aqi": 329,
+    "category": "Very Poor"
+  },
+  "3409372": {
+    "city": "Chittoor",
+    "state": "Andhra Pradesh",
+    "area": "Chittoor",
+    "longitude": 79.097889,
+    "latitude": 13.20488,
+    "pm_value_used": 47.31,
+    "aqi": 79,
+    "category": "Satisfactory"
+  },
+  "407": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "area": "Hyderabad",
+    "longitude": 78.451437,
+    "latitude": 17.349694,
+    "pm_value_used": 22.0,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "3409485": {
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.057223,
+    "latitude": 19.309073,
+    "pm_value_used": 29.97,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "3409480": {
+    "city": "Virar",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.7988231,
+    "latitude": 19.445821,
+    "pm_value_used": 44.48,
+    "aqi": 74,
+    "category": "Satisfactory"
+  },
+  "2596": {
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "area": "Solapur",
+    "longitude": 75.9063906,
+    "latitude": 17.6599188,
+    "pm_value_used": 69.0,
+    "aqi": 128,
+    "category": "Moderately Polluted"
+  },
+  "5586": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.2159377,
+    "latitude": 28.5504249,
+    "pm_value_used": 69.96,
+    "aqi": 132,
+    "category": "Moderately Polluted"
+  },
+  "3409448": {
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "area": "Solapur",
+    "longitude": 75.90649,
+    "latitude": 17.65439,
+    "pm_value_used": 19.63,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "3409452": {
+    "city": "Latur",
+    "state": "Maharashtra",
+    "area": "Latur",
+    "longitude": 76.57452,
+    "latitude": 18.39963,
+    "pm_value_used": 17.16,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "5661": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.8165527,
+    "latitude": 18.5011743,
+    "pm_value_used": 1060.0,
+    "aqi": 508,
+    "category": "Severe"
+  },
+  "317035": {
+    "city": "Clement Town",
+    "state": "Uttarakhand",
+    "area": "Dehradun",
+    "longitude": 78.044167,
+    "latitude": 30.269444,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "10914": {
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "area": "Chandigarh",
+    "longitude": 76.762879,
+    "latitude": 30.751462,
+    "pm_value_used": 57.48,
+    "aqi": 96,
+    "category": "Satisfactory"
+  },
+  "5576": {
+    "city": "Alwar",
+    "state": "Rajasthan",
+    "area": "Alwar",
+    "longitude": 76.611536,
+    "latitude": 27.554793,
+    "pm_value_used": 82.82,
+    "aqi": 175,
+    "category": "Moderately Polluted"
+  },
+  "3409416": {
+    "city": "Banswara",
+    "state": "Rajasthan",
+    "area": "Banswara",
+    "longitude": 74.44001,
+    "latitude": 23.55519,
+    "pm_value_used": 45.0,
+    "aqi": 75,
+    "category": "Satisfactory"
+  },
+  "270708": {
+    "city": "Durg",
+    "state": "Chhattisgarh",
+    "area": "Durg",
+    "longitude": 81.343175,
+    "latitude": 21.185571,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "6959": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.813993,
+    "latitude": 19.000083,
+    "pm_value_used": 66.0,
+    "aqi": 118,
+    "category": "Moderately Polluted"
+  },
+  "3409375": {
+    "city": "Mushalpur",
+    "state": "Assam",
+    "area": "Baksa",
+    "longitude": 91.43905699999999,
+    "latitude": 26.446912,
+    "pm_value_used": 42.0,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "8171": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "area": "Vadodara",
+    "longitude": 73.097923,
+    "latitude": 22.410802,
+    "pm_value_used": 21.8,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "5647": {
+    "city": "Kukatpalli",
+    "state": "Telangana",
+    "area": "Rangareddi",
+    "longitude": 78.4332152,
+    "latitude": 17.4559458,
+    "pm_value_used": 8.0,
+    "aqi": 13,
+    "category": "Good"
+  },
+  "3409319": {
+    "city": "Vandalur",
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "longitude": 80.1076538,
+    "latitude": 12.9099161,
+    "pm_value_used": 30.16,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "270728": {
+    "city": "Saharsa",
+    "state": "Bihar",
+    "area": "Saharsa",
+    "longitude": 86.590325,
+    "latitude": 25.892357,
+    "pm_value_used": 81.0,
+    "aqi": 169,
+    "category": "Moderately Polluted"
+  },
+  "3409367": {
+    "city": "Bhilai",
+    "state": "Chhattisgarh",
+    "area": "Durg",
+    "longitude": 81.40835,
+    "latitude": 21.224231,
+    "pm_value_used": 21.8,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "3409459": {
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "area": "Amravati Division",
+    "longitude": 77.765701,
+    "latitude": 20.939198,
+    "pm_value_used": 14.95,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "5548": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.5950804,
+    "latitude": 12.9135218,
+    "pm_value_used": 24.01,
+    "aqi": 40,
+    "category": "Good"
+  },
+  "3409368": {
+    "city": "Durg",
+    "state": "Chhattisgarh",
+    "area": "Durg",
+    "longitude": 81.31477,
+    "latitude": 21.194815,
+    "pm_value_used": 17.27,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "3409414": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.8871,
+    "latitude": 22.76726,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "3409478": {
+    "city": "Bhayandar",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.840923,
+    "latitude": 19.296481,
+    "pm_value_used": 12.59,
+    "aqi": 21,
+    "category": "Good"
+  },
+  "12041": {
+    "city": "Koppal",
+    "state": "Karnataka",
+    "area": "Koppal",
+    "longitude": 76.181767,
+    "latitude": 15.34763,
+    "pm_value_used": 10.87,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "3409397": {
+    "city": "Gharghoda",
+    "state": "Chhattisgarh",
+    "area": "Raigarh",
+    "longitude": 83.483212,
+    "latitude": 22.12665,
+    "pm_value_used": 6.72,
+    "aqi": 11,
+    "category": "Good"
+  },
+  "10599": {
+    "city": "Patna",
+    "state": "Bihar",
+    "area": "Patna",
+    "longitude": 85.113666,
+    "latitude": 25.599486,
+    "pm_value_used": 14.6,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "3409361": {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "area": "Raipur",
+    "longitude": 81.578979,
+    "latitude": 21.258815,
+    "pm_value_used": 14.71,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "3409515": {
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "area": "Jabalpur",
+    "longitude": 79.973061,
+    "latitude": 23.163174,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "2456": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.8917361,
+    "latitude": 26.83399722,
+    "pm_value_used": 42.43,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "3409422": {
+    "city": "Jhunjhunun",
+    "state": "Rajasthan",
+    "area": "Jhunjhunun",
+    "longitude": 75.386577,
+    "latitude": 28.108988,
+    "pm_value_used": 36.0,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "3409453": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "area": "Nashik Division",
+    "longitude": 73.73148,
+    "latitude": 19.95022,
+    "pm_value_used": 12.57,
+    "aqi": 21,
+    "category": "Good"
+  },
+  "3409396": {
+    "city": "Kharsia",
+    "state": "Chhattisgarh",
+    "area": "Raigarh",
+    "longitude": 83.140608,
+    "latitude": 22.118125,
+    "pm_value_used": 36.27,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "3409460": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "area": "Aurangabad Division",
+    "longitude": 75.38731,
+    "latitude": 19.87562,
+    "pm_value_used": 41.52,
+    "aqi": 69,
+    "category": "Satisfactory"
+  },
+  "3409451": {
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "area": "Nashik Division",
+    "longitude": 73.7788008,
+    "latitude": 19.9591346,
+    "pm_value_used": 28.06,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "6940": {
+    "city": "Khanna",
+    "state": "Punjab",
+    "area": "Ludhiana",
+    "longitude": 76.209694,
+    "latitude": 30.736056,
+    "pm_value_used": 23.28,
+    "aqi": 39,
+    "category": "Good"
+  },
+  "3409419": {
+    "city": "Barmer",
+    "state": "Rajasthan",
+    "area": "Barmer",
+    "longitude": 71.393989,
+    "latitude": 25.747298999999998,
+    "pm_value_used": 6.0,
+    "aqi": 10,
+    "category": "Good"
+  },
+  "358448": {
+    "city": "Tiruppur",
+    "state": "Tamil Nadu",
+    "area": "Tiruppur",
+    "longitude": 77.3228673,
+    "latitude": 11.0973603,
+    "pm_value_used": 40.0,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "6987": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.83622,
+    "latitude": 19.10861,
+    "pm_value_used": 987.0,
+    "aqi": 498,
+    "category": "Severe"
+  },
+  "3409507": {
+    "city": "Jajpur",
+    "state": "Odisha",
+    "area": "Jajpur",
+    "longitude": 86.1151,
+    "latitude": 20.94185,
+    "pm_value_used": 36.0,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "6974": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.539784,
+    "latitude": 12.951913,
+    "pm_value_used": 114.0,
+    "aqi": 280,
+    "category": "Poor"
+  },
+  "5642": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "area": "Aurangabad Division",
+    "longitude": 75.244448,
+    "latitude": 19.8389439,
+    "pm_value_used": 27.34,
+    "aqi": 46,
+    "category": "Good"
+  },
+  "6358": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.201067,
+    "latitude": 28.636429,
+    "pm_value_used": 55.0,
+    "aqi": 92,
+    "category": "Satisfactory"
+  },
+  "227931": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 77.96236999999999,
+    "latitude": 27.19412,
+    "pm_value_used": 58.43,
+    "aqi": 97,
+    "category": "Satisfactory"
+  },
+  "6928": {
+    "city": "Virar",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.8204,
+    "latitude": 19.3832,
+    "pm_value_used": 66.24,
+    "aqi": 119,
+    "category": "Moderately Polluted"
+  },
+  "5648": {
+    "city": "Shiliguri",
+    "state": "West Bengal",
+    "area": "Darjiling",
+    "longitude": 88.412668,
+    "latitude": 26.6883049,
+    "pm_value_used": 61.79,
+    "aqi": 104,
+    "category": "Moderately Polluted"
+  },
+  "3409424": {
+    "city": "Ganganagar",
+    "state": "Rajasthan",
+    "area": "Ganganagar",
+    "longitude": 73.864511,
+    "latitude": 29.931624,
+    "pm_value_used": 74.0,
+    "aqi": 145,
+    "category": "Moderately Polluted"
+  },
+  "233416": {
+    "city": "Allahabad",
+    "state": "Uttar Pradesh",
+    "area": "Allahabad",
+    "longitude": 81.82735986,
+    "latitude": 25.44919916,
+    "pm_value_used": 135.04,
+    "aqi": 312,
+    "category": "Very Poor"
+  },
+  "3409427": {
+    "city": "Sikar",
+    "state": "Rajasthan",
+    "area": "Sikar",
+    "longitude": 75.153302,
+    "latitude": 27.608912,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "7140": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 81.005119,
+    "latitude": 26.86812,
+    "pm_value_used": 40.0,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "3409511": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.923356,
+    "latitude": 19.060498,
+    "pm_value_used": 14.4,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "5649": {
+    "city": "Tirumala",
+    "state": "Andhra Pradesh",
+    "area": "Chittoor",
+    "longitude": 79.35,
+    "latitude": 13.67,
+    "pm_value_used": 22.0,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "3409418": {
+    "city": "Dausa",
+    "state": "Rajasthan",
+    "area": "Dausa",
+    "longitude": 76.334753,
+    "latitude": 26.895552000000002,
+    "pm_value_used": 29.0,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "6984": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.585901,
+    "latitude": 13.029152,
+    "pm_value_used": 67.0,
+    "aqi": 121,
+    "category": "Moderately Polluted"
+  },
+  "229731": {
+    "city": "Motihari",
+    "state": "Bihar",
+    "area": "Purba Champaran",
+    "longitude": 84.90051,
+    "latitude": 26.63086,
+    "pm_value_used": 66.0,
+    "aqi": 118,
+    "category": "Moderately Polluted"
+  },
+  "10485": {
+    "city": "Alipur",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.101981,
+    "latitude": 28.822836,
+    "pm_value_used": 41.0,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "3409413": {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "area": "Bhopal",
+    "longitude": 77.381568,
+    "latitude": 23.264758999999998,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "3409474": {
+    "city": "Malegaon",
+    "state": "Maharashtra",
+    "area": "Nashik Division",
+    "longitude": 74.529236,
+    "latitude": 20.555712,
+    "pm_value_used": 59.92,
+    "aqi": 100,
+    "category": "Satisfactory"
+  },
+  "6980": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.321962,
+    "latitude": 28.589247,
+    "pm_value_used": 91.0,
+    "aqi": 201,
+    "category": "Poor"
+  },
+  "3410003": {
+    "city": "Port Blair",
+    "state": "Andaman and Nicobar Islands",
+    "area": "South Andaman",
+    "longitude": 92.734055,
+    "latitude": 11.654054,
+    "pm_value_used": 26.21,
+    "aqi": 44,
+    "category": "Good"
+  },
+  "3409410": {
+    "city": "Sirohi",
+    "state": "Rajasthan",
+    "area": "Sirohi",
+    "longitude": 72.857549,
+    "latitude": 24.885261,
+    "pm_value_used": 33.0,
+    "aqi": 54,
+    "category": "Satisfactory"
+  },
+  "3409525": {
+    "city": "Raniganj",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 87.119133,
+    "latitude": 23.616515,
+    "pm_value_used": 25.36,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "3409449": {
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "area": "Solapur",
+    "longitude": 75.9132495,
+    "latitude": 17.6336264,
+    "pm_value_used": 14.14,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "3409403": {
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "area": "Bikaner",
+    "longitude": 73.29265799999999,
+    "latitude": 28.018791999999998,
+    "pm_value_used": 17.0,
+    "aqi": 28,
+    "category": "Good"
+  },
+  "3409458": {
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "area": "Amravati Division",
+    "longitude": 77.7895248,
+    "latitude": 20.9402359,
+    "pm_value_used": 15.1,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "3409494": {
+    "city": "Dungarpur",
+    "state": "Rajasthan",
+    "area": "Dungarpur",
+    "longitude": 73.714926,
+    "latitude": 23.837789,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "5659": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.9365541,
+    "latitude": 26.8458805,
+    "pm_value_used": 29.6,
+    "aqi": 49,
+    "category": "Good"
+  },
+  "8035": {
+    "city": "Bijapur",
+    "state": "Karnataka",
+    "area": "Bijapur",
+    "longitude": 75.722694,
+    "latitude": 16.802639,
+    "pm_value_used": 14.9,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "3409382": {
+    "city": "Banposh",
+    "state": "Odisha",
+    "area": "Sundargarh",
+    "longitude": 84.809444,
+    "latitude": 22.220833,
+    "pm_value_used": 20.82,
+    "aqi": 35,
+    "category": "Good"
+  },
+  "228403": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "area": "Varanasi",
+    "longitude": 82.996789,
+    "latitude": 25.301778,
+    "pm_value_used": 16.44,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "278159": {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 78.000111,
+    "latitude": 27.106972,
+    "pm_value_used": 100.62,
+    "aqi": 234,
+    "category": "Poor"
+  },
+  "3409370": {
+    "city": "Sagar",
+    "state": "Madhya Pradesh",
+    "area": "Sagar",
+    "longitude": 78.759431,
+    "latitude": 23.838586,
+    "pm_value_used": 22.0,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "6939": {
+    "city": "Bhatinda",
+    "state": "Punjab",
+    "area": "Bathinda",
+    "longitude": 74.907758,
+    "latitude": 30.233011,
+    "pm_value_used": 47.82,
+    "aqi": 79,
+    "category": "Satisfactory"
+  },
+  "3409508": {
+    "city": "Bhubaneshwar",
+    "state": "Odisha",
+    "area": "Khordha",
+    "longitude": 85.8163,
+    "latitude": 20.34652,
+    "pm_value_used": 29.0,
+    "aqi": 48,
+    "category": "Good"
+  },
+  "11611": {
+    "city": "Borivli",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.82204,
+    "latitude": 19.19709,
+    "pm_value_used": 10.28,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "10488": {
+    "city": "Bahadurgarh",
+    "state": "Haryana",
+    "area": "Jhajjar",
+    "longitude": 76.933762,
+    "latitude": 28.570173,
+    "pm_value_used": 204.0,
+    "aqi": 365,
+    "category": "Very Poor"
+  },
+  "3409497": {
+    "city": "Karwar",
+    "state": "Karnataka",
+    "area": "Uttar Kannada",
+    "longitude": 74.141003,
+    "latitude": 14.816666,
+    "pm_value_used": 28.0,
+    "aqi": 47,
+    "category": "Good"
+  },
+  "8239": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.271255,
+    "latitude": 28.530785,
+    "pm_value_used": 41.0,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "3409391": {
+    "city": "Silchar",
+    "state": "Assam",
+    "area": "Cachar",
+    "longitude": 92.79525,
+    "latitude": 24.82827,
+    "pm_value_used": 22.54,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409371": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "area": "Surat",
+    "longitude": 72.795405,
+    "latitude": 21.170046,
+    "pm_value_used": 14.8,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "5636": {
+    "city": "Kota",
+    "state": "Rajasthan",
+    "area": "Kota",
+    "longitude": 75.821256,
+    "latitude": 25.14389,
+    "pm_value_used": 89.5,
+    "aqi": 198,
+    "category": "Moderately Polluted"
+  },
+  "3409465": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "area": "Nagpur Division",
+    "longitude": 79.048912,
+    "latitude": 21.143383,
+    "pm_value_used": 11.97,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "3409521": {
+    "city": "Asansol",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 86.944395,
+    "latitude": 23.697936,
+    "pm_value_used": 31.64,
+    "aqi": 52,
+    "category": "Satisfactory"
+  },
+  "270721": {
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "area": "Bhagalpur",
+    "longitude": 87.012947,
+    "latitude": 25.265194,
+    "pm_value_used": 8.0,
+    "aqi": 13,
+    "category": "Good"
+  },
+  "3409373": {
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "area": "Chittoor",
+    "longitude": 79.40923000000001,
+    "latitude": 13.615387,
+    "pm_value_used": 39.93,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "5655": {
+    "city": "Gandhi Nagar",
+    "state": "Tamil Nadu",
+    "area": "Chennai",
+    "longitude": 80.2398125,
+    "latitude": 13.0052189,
+    "pm_value_used": 17.1,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "227535": {
+    "city": "Dayal Bagh",
+    "state": "Uttar Pradesh",
+    "area": "Agra",
+    "longitude": 78.01935999999999,
+    "latitude": 27.237109999999998,
+    "pm_value_used": 72.24,
+    "aqi": 139,
+    "category": "Moderately Polluted"
+  },
+  "344140": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "area": "Hyderabad",
+    "longitude": 78.457437,
+    "latitude": 17.417094,
+    "pm_value_used": 29.81,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "5635": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.836858,
+    "latitude": 26.902909,
+    "pm_value_used": 29.3,
+    "aqi": 49,
+    "category": "Good"
+  },
+  "3409401": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "longitude": 72.97657099999999,
+    "latitude": 26.253384000000004,
+    "pm_value_used": 25.0,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "11607": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.221667,
+    "latitude": 28.588333,
+    "pm_value_used": 42.3,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "3409479": {
+    "city": "Borivli",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8304069,
+    "latitude": 19.1878657,
+    "pm_value_used": 7.31,
+    "aqi": 12,
+    "category": "Good"
+  },
+  "6962": {
+    "city": "Ankleshwar",
+    "state": "Gujarat",
+    "area": "Bharuch",
+    "longitude": 73.010555,
+    "latitude": 21.613267,
+    "pm_value_used": 21.93,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "3409486": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.8456324,
+    "latitude": 19.0632143,
+    "pm_value_used": 4.55,
+    "aqi": 8,
+    "category": "Good"
+  },
+  "3409412": {
+    "city": "Kota",
+    "state": "Rajasthan",
+    "area": "Kota",
+    "longitude": 75.858137,
+    "latitude": 25.164089999999998,
+    "pm_value_used": 26.0,
+    "aqi": 43,
+    "category": "Good"
+  },
+  "5754": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.2321778,
+    "latitude": 28.5828503,
+    "pm_value_used": 152.0,
+    "aqi": 325,
+    "category": "Very Poor"
+  },
+  "3409527": {
+    "city": "Perundurai",
+    "state": "Tamil Nadu",
+    "area": "Erode",
+    "longitude": 77.552761,
+    "latitude": 11.258242,
+    "pm_value_used": 17.73,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "3409461": {
+    "city": "Aurangabad",
+    "state": "Maharashtra",
+    "area": "Aurangabad Division",
+    "longitude": 75.321188,
+    "latitude": 19.863756,
+    "pm_value_used": 35.59,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "286": {
+    "city": "Bodh Gaya",
+    "state": "Bihar",
+    "area": "Gaya",
+    "longitude": 84.9438395,
+    "latitude": 24.7489694,
+    "pm_value_used": 105.0,
+    "aqi": 249,
+    "category": "Poor"
+  },
+  "10630": {
+    "city": "Hajipur",
+    "state": "Bihar",
+    "area": "Vaishali",
+    "longitude": 85.227158,
+    "latitude": 25.592539,
+    "pm_value_used": 53.4,
+    "aqi": 89,
+    "category": "Satisfactory"
+  },
+  "3409408": {
+    "city": "Birbhaddar",
+    "state": "Uttarakhand",
+    "area": "Dehradun",
+    "longitude": 78.2859547,
+    "latitude": 30.075910999999998,
+    "pm_value_used": 1.19,
+    "aqi": 2,
+    "category": "Good"
+  },
+  "3409429": {
+    "city": "Jhalawar",
+    "state": "Rajasthan",
+    "area": "Jhalawar",
+    "longitude": 76.172782,
+    "latitude": 24.588397,
+    "pm_value_used": 20.0,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "7720": {
+    "city": "Daurala",
+    "state": "Uttar Pradesh",
+    "area": "Meerut",
+    "longitude": 77.709723,
+    "latitude": 29.06351,
+    "pm_value_used": 63.0,
+    "aqi": 108,
+    "category": "Moderately Polluted"
+  },
+  "6923": {
+    "city": "Muzaffarnagar",
+    "state": "Uttar Pradesh",
+    "area": "Muzaffarnagar",
+    "longitude": 77.7194031,
+    "latitude": 29.4723508,
+    "pm_value_used": 69.0,
+    "aqi": 128,
+    "category": "Moderately Polluted"
+  },
+  "353715": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.75372800000001,
+    "latitude": 28.802625,
+    "pm_value_used": 72.54,
+    "aqi": 140,
+    "category": "Moderately Polluted"
+  },
+  "228840": {
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "area": "Gorakhpur",
+    "longitude": 83.433859,
+    "latitude": 26.730136,
+    "pm_value_used": 85.75,
+    "aqi": 185,
+    "category": "Moderately Polluted"
+  },
+  "6982": {
+    "city": "Hubli",
+    "state": "Karnataka",
+    "area": "Dharwad",
+    "longitude": 75.140726,
+    "latitude": 15.351773,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "3409526": {
+    "city": "Shivaji Nagar",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.805454,
+    "latitude": 18.536457,
+    "pm_value_used": 17.69,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "8190": {
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "area": "Thiruvananthapuram",
+    "longitude": 76.8865,
+    "latitude": 8.5637,
+    "pm_value_used": 10.44,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "10820": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.3217,
+    "latitude": 28.4417,
+    "pm_value_used": 44.39,
+    "aqi": 74,
+    "category": "Satisfactory"
+  },
+  "10486": {
+    "city": "Nangloi Jat",
+    "state": "NCT",
+    "area": "West Delhi",
+    "longitude": 77.076574,
+    "latitude": 28.684678,
+    "pm_value_used": 57.0,
+    "aqi": 95,
+    "category": "Satisfactory"
+  },
+  "358453": {
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "area": "Dindigul",
+    "longitude": 77.984321,
+    "latitude": 10.358535,
+    "pm_value_used": 9.0,
+    "aqi": 15,
+    "category": "Good"
+  },
+  "5610": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1585447,
+    "latitude": 28.6573814,
+    "pm_value_used": 147.6,
+    "aqi": 321,
+    "category": "Very Poor"
+  },
+  "330021": {
+    "city": "Firozabad",
+    "state": "Uttar Pradesh",
+    "area": "Firozabad",
+    "longitude": 78.3953,
+    "latitude": 27.1594,
+    "pm_value_used": 63.28,
+    "aqi": 109,
+    "category": "Moderately Polluted"
+  },
+  "6975": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.622813,
+    "latitude": 12.917348,
+    "pm_value_used": 55.0,
+    "aqi": 92,
+    "category": "Satisfactory"
+  },
+  "3409425": {
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Jodhpur",
+    "longitude": 73.07015600000001,
+    "latitude": 26.215415000000004,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409384": {
+    "city": "Kiri Buru",
+    "state": "Odisha",
+    "area": "Kendujhar",
+    "longitude": 85.167016,
+    "latitude": 21.869985,
+    "pm_value_used": 20.89,
+    "aqi": 35,
+    "category": "Good"
+  },
+  "5616": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.3577104,
+    "latitude": 28.6245479,
+    "pm_value_used": 80.99,
+    "aqi": 169,
+    "category": "Moderately Polluted"
+  },
+  "3409520": {
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 87.35444,
+    "latitude": 23.508764,
+    "pm_value_used": 36.31,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "301388": {
+    "city": "Baghpat",
+    "state": "Uttar Pradesh",
+    "area": "Baghpat",
+    "longitude": 77.278761,
+    "latitude": 28.964949,
+    "pm_value_used": 129.0,
+    "aqi": 307,
+    "category": "Very Poor"
+  },
+  "6931": {
+    "city": "Nangloi Jat",
+    "state": "NCT",
+    "area": "West Delhi",
+    "longitude": 77.0719006,
+    "latitude": 28.5710274,
+    "pm_value_used": 41.0,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "235": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.316032,
+    "latitude": 28.646835,
+    "pm_value_used": 271.0,
+    "aqi": 404,
+    "category": "Severe"
+  },
+  "3409393": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.5080115,
+    "latitude": 13.0246342,
+    "pm_value_used": 14.68,
+    "aqi": 24,
+    "category": "Good"
+  },
+  "7752": {
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.142019,
+    "latitude": 19.25292,
+    "pm_value_used": 35.0,
+    "aqi": 58,
+    "category": "Satisfactory"
+  },
+  "3409346": {
+    "city": "Cuddalore",
+    "state": "Tamil Nadu",
+    "area": "Cuddalore",
+    "longitude": 79.7499835,
+    "latitude": 11.7637683,
+    "pm_value_used": 53.0,
+    "aqi": 88,
+    "category": "Satisfactory"
+  },
+  "12040": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.9419,
+    "latitude": 19.175,
+    "pm_value_used": 47.69,
+    "aqi": 79,
+    "category": "Satisfactory"
+  },
+  "233415": {
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "area": "Chandigarh",
+    "longitude": 76.77571400000001,
+    "latitude": 30.735567,
+    "pm_value_used": 40.0,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "6970": {
+    "city": "Narnaul",
+    "state": "Haryana",
+    "area": "Mahendragarh",
+    "longitude": 76.113115,
+    "latitude": 28.060249,
+    "pm_value_used": 58.0,
+    "aqi": 97,
+    "category": "Satisfactory"
+  },
+  "3409388": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.664217,
+    "latitude": 13.003872,
+    "pm_value_used": 54.91,
+    "aqi": 91,
+    "category": "Satisfactory"
+  },
+  "3409505": {
+    "city": "Bhubaneshwar",
+    "state": "Odisha",
+    "area": "Khordha",
+    "longitude": 85.836784,
+    "latitude": 20.24079,
+    "pm_value_used": 55.0,
+    "aqi": 92,
+    "category": "Satisfactory"
+  },
+  "10903": {
+    "city": "Guwahati",
+    "state": "Assam",
+    "area": "Kamrup Metropolitan",
+    "longitude": 91.78063,
+    "latitude": 26.181742,
+    "pm_value_used": 10.0,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "6297968": {
+    "city": "Jammu",
+    "state": "Kashmir",
+    "area": "Jammu",
+    "longitude": 74.8596,
+    "latitude": 32.7014,
+    "pm_value_used": 195.3,
+    "aqi": 358,
+    "category": "Very Poor"
+  },
+  "5929186": {
+    "city": "Srinagar",
+    "state": "Kashmir",
+    "area": "Srinagar",
+    "longitude": 74.8324004,
+    "latitude": 34.0584621,
+    "pm_value_used": 118.71616655985514,
+    "aqi": 296,
+    "category": "Poor"
+  },
+  "6953": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 76.93609,
+    "latitude": 28.360699,
+    "pm_value_used": 99.7,
+    "aqi": 231,
+    "category": "Poor"
+  },
+  "6299678": {
+    "city": "Loni",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.273668,
+    "latitude": 28.739153,
+    "pm_value_used": 17.54,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "6003651": {
+    "city": "Hansot",
+    "state": "Gujarat",
+    "area": "Bharuch",
+    "longitude": 72.7855,
+    "latitude": 21.7653,
+    "pm_value_used": 11.5,
+    "aqi": 19,
+    "category": "Good"
+  },
+  "6013125": {
+    "city": "Srinagar",
+    "state": "Kashmir",
+    "area": "Srinagar",
+    "longitude": 74.8398961,
+    "latitude": 34.0132271,
+    "pm_value_used": 65.6,
+    "aqi": 117,
+    "category": "Moderately Polluted"
+  },
+  "6949": {
+    "city": "Dharuhera",
+    "state": "Haryana",
+    "area": "Rewari District",
+    "longitude": 76.7997,
+    "latitude": 28.2068,
+    "pm_value_used": 61.8,
+    "aqi": 104,
+    "category": "Moderately Polluted"
+  },
+  "6061085": {
+    "city": "Srinagar",
+    "state": "Kashmir",
+    "area": "Srinagar",
+    "longitude": 74.81864018646164,
+    "latitude": 34.067893918880145,
+    "pm_value_used": 38.61333211263021,
+    "aqi": 64,
+    "category": "Satisfactory"
+  },
+  "5617": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.3099081,
+    "latitude": 28.4088421,
+    "pm_value_used": 240.0,
+    "aqi": 392,
+    "category": "Very Poor"
+  },
+  "3409354": {
+    "city": "Cuddalore",
+    "state": "Tamil Nadu",
+    "area": "Cuddalore",
+    "longitude": 79.7532099,
+    "latitude": 11.6829898,
+    "pm_value_used": 22.8,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "3409415": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "area": "Dhanbad",
+    "longitude": 86.44268000000001,
+    "latitude": 23.80569,
+    "pm_value_used": 0.09,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "3409437": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.765797,
+    "latitude": 18.616318,
+    "pm_value_used": 29.81,
+    "aqi": 50,
+    "category": "Good"
+  },
+  "3409524": {
+    "city": "Haora",
+    "state": "West Bengal",
+    "area": "Haora",
+    "longitude": 88.292568,
+    "latitude": 22.554954,
+    "pm_value_used": 39.59,
+    "aqi": 66,
+    "category": "Satisfactory"
+  },
+  "301": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 77.0263051,
+    "latitude": 28.4501238,
+    "pm_value_used": 205.9,
+    "aqi": 366,
+    "category": "Very Poor"
+  },
+  "3409331": {
+    "city": "Pimpri",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.848956,
+    "latitude": 18.640051,
+    "pm_value_used": 19.1,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "270724": {
+    "city": "Gaya",
+    "state": "Bihar",
+    "area": "Gaya",
+    "longitude": 84.992416,
+    "latitude": 24.792403,
+    "pm_value_used": 122.0,
+    "aqi": 302,
+    "category": "Very Poor"
+  },
+  "12043": {
+    "city": "Raichur",
+    "state": "Karnataka",
+    "area": "Raichur",
+    "longitude": 77.348417,
+    "latitude": 16.208139,
+    "pm_value_used": 10.0,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "3409409": {
+    "city": "Kashipur",
+    "state": "Uttarakhand",
+    "area": "Udham Singh Nagar",
+    "longitude": 78.96117530000001,
+    "latitude": 29.2124114,
+    "pm_value_used": 48.99,
+    "aqi": 81,
+    "category": "Satisfactory"
+  },
+  "227384": {
+    "city": "Jhusi",
+    "state": "Uttar Pradesh",
+    "area": "Allahabad",
+    "longitude": 81.917152,
+    "latitude": 25.425601999999998,
+    "pm_value_used": 107.67,
+    "aqi": 258,
+    "category": "Poor"
+  },
+  "3409434": {
+    "city": "Anekal",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.6299145,
+    "latitude": 12.7816279,
+    "pm_value_used": 21.6,
+    "aqi": 36,
+    "category": "Good"
+  },
+  "10915": {
+    "city": "Kollam",
+    "state": "Kerala",
+    "area": "Kollam",
+    "longitude": 76.6073,
+    "latitude": 8.8787,
+    "pm_value_used": 27.03,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "3409500": {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.8872,
+    "latitude": 22.7524,
+    "pm_value_used": 17.7,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "3409502": {
+    "city": "Remuna",
+    "state": "Odisha",
+    "area": "Baleshwar",
+    "longitude": 86.89088,
+    "latitude": 21.51161,
+    "pm_value_used": 31.0,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "3409487": {
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.0151367,
+    "latitude": 19.0575752,
+    "pm_value_used": 15.22,
+    "aqi": 25,
+    "category": "Good"
+  },
+  "270726": {
+    "city": "Siwan",
+    "state": "Bihar",
+    "area": "Siwan",
+    "longitude": 84.35704270000001,
+    "latitude": 26.2271665,
+    "pm_value_used": 361.0,
+    "aqi": 416,
+    "category": "Severe"
+  },
+  "3409342": {
+    "city": "Imphal",
+    "state": "Manipur",
+    "area": "Imphal East",
+    "longitude": 93.9423085,
+    "latitude": 24.8207389,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "346257": {
+    "city": "Patancheru",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.28619499999999,
+    "latitude": 17.528544,
+    "pm_value_used": 47.14,
+    "aqi": 78,
+    "category": "Satisfactory"
+  },
+  "3409530": {
+    "city": "Haora",
+    "state": "West Bengal",
+    "area": "Haora",
+    "longitude": 88.3105664,
+    "latitude": 22.6025571,
+    "pm_value_used": 27.69,
+    "aqi": 46,
+    "category": "Good"
+  },
+  "2597": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.189066,
+    "latitude": 28.598096,
+    "pm_value_used": 241.0,
+    "aqi": 393,
+    "category": "Very Poor"
+  },
+  "6944": {
+    "city": "Bhiwani",
+    "state": "Haryana",
+    "area": "Bhiwani",
+    "longitude": 76.141105,
+    "latitude": 28.806223,
+    "pm_value_used": 160.2,
+    "aqi": 331,
+    "category": "Very Poor"
+  },
+  "6958": {
+    "city": "Panipat",
+    "state": "Haryana",
+    "area": "Panipat",
+    "longitude": 76.975531,
+    "latitude": 29.435587,
+    "pm_value_used": 89.5,
+    "aqi": 198,
+    "category": "Moderately Polluted"
+  },
+  "7280": {
+    "city": "Palwal",
+    "state": "Haryana",
+    "area": "Palwal",
+    "longitude": 77.3320667,
+    "latitude": 28.1485564,
+    "pm_value_used": 131.51,
+    "aqi": 309,
+    "category": "Very Poor"
+  },
+  "6951": {
+    "city": "Sonipat",
+    "state": "Haryana",
+    "area": "Sonipat",
+    "longitude": 77.0621,
+    "latitude": 29.0272,
+    "pm_value_used": 77.68,
+    "aqi": 158,
+    "category": "Moderately Polluted"
+  },
+  "6963": {
+    "city": "Jind",
+    "state": "Haryana",
+    "area": "Jind",
+    "longitude": 76.337619,
+    "latitude": 29.307814,
+    "pm_value_used": 303.7,
+    "aqi": 408,
+    "category": "Severe"
+  },
+  "358665": {
+    "city": "Belgaum",
+    "state": "Karnataka",
+    "area": "Belgaum",
+    "longitude": 74.541751,
+    "latitude": 15.888653,
+    "pm_value_used": 39.0,
+    "aqi": 65,
+    "category": "Satisfactory"
+  },
+  "3409529": {
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "area": "Barddhaman",
+    "longitude": 87.306843,
+    "latitude": 23.567923,
+    "pm_value_used": 25.88,
+    "aqi": 43,
+    "category": "Good"
+  },
+  "7283": {
+    "city": "Rohtak",
+    "state": "Haryana",
+    "area": "Rohtak",
+    "longitude": 76.620825,
+    "latitude": 28.87793,
+    "pm_value_used": 69.8,
+    "aqi": 131,
+    "category": "Moderately Polluted"
+  },
+  "44515": {
+    "city": "Gadag",
+    "state": "Karnataka",
+    "area": "Gadag",
+    "longitude": 75.638133,
+    "latitude": 15.411456,
+    "pm_value_used": 10.04,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "10910": {
+    "city": "Karnal",
+    "state": "Haryana",
+    "area": "Karnal",
+    "longitude": 77.0027,
+    "latitude": 29.6953,
+    "pm_value_used": 159.43,
+    "aqi": 330,
+    "category": "Very Poor"
+  },
+  "3409438": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.854155,
+    "latitude": 18.45445,
+    "pm_value_used": 32.09,
+    "aqi": 53,
+    "category": "Satisfactory"
+  },
+  "2583": {
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "area": "Chandigarh",
+    "longitude": 76.8531805555555,
+    "latitude": 30.7057778,
+    "pm_value_used": 87.33,
+    "aqi": 191,
+    "category": "Moderately Polluted"
+  },
+  "3409309": {
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Moradabad",
+    "longitude": 78.7213009,
+    "latitude": 28.825341,
+    "pm_value_used": 12.0,
+    "aqi": 20,
+    "category": "Good"
+  },
+  "5755": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.2351994,
+    "latitude": 28.6125027,
+    "pm_value_used": 62.0,
+    "aqi": 104,
+    "category": "Moderately Polluted"
+  },
+  "2592": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.69727222,
+    "latitude": 12.93890556,
+    "pm_value_used": 40.94,
+    "aqi": 68,
+    "category": "Satisfactory"
+  },
+  "11604": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.923,
+    "latitude": 19.04946,
+    "pm_value_used": 75.1,
+    "aqi": 149,
+    "category": "Moderately Polluted"
+  },
+  "6105800": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.431714,
+    "latitude": 28.583491,
+    "pm_value_used": 36.0,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "6112064": {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "area": "Nagpur Division",
+    "longitude": 79.052856,
+    "latitude": 21.123229,
+    "pm_value_used": 18.2,
+    "aqi": 30,
+    "category": "Good"
+  },
+  "6119271": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.5649,
+    "latitude": 12.9044,
+    "pm_value_used": 46.1,
+    "aqi": 77,
+    "category": "Satisfactory"
+  },
+  "6119272": {
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.3780531,
+    "latitude": 28.658398,
+    "pm_value_used": 116.2,
+    "aqi": 287,
+    "category": "Poor"
+  },
+  "7299": {
+    "city": "Murwara",
+    "state": "Madhya Pradesh",
+    "area": "Katni",
+    "longitude": 80.39122199999998,
+    "latitude": 23.833778,
+    "pm_value_used": 31.0,
+    "aqi": 51,
+    "category": "Satisfactory"
+  },
+  "6125489": {
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 77.08477464826682,
+    "latitude": 28.40240847053802,
+    "pm_value_used": 26.8,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "6267807": {
+    "city": "Machilipatnam",
+    "state": "Andhra Pradesh",
+    "area": "Krishna",
+    "longitude": 81.13219,
+    "latitude": 16.186555,
+    "pm_value_used": 33.09,
+    "aqi": 55,
+    "category": "Satisfactory"
+  },
+  "6311324": {
+    "city": "Dasna",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.494705,
+    "latitude": 28.694528,
+    "pm_value_used": 35.58,
+    "aqi": 59,
+    "category": "Satisfactory"
+  },
+  "6314877": {
+    "city": "Satara",
+    "state": "Maharashtra",
+    "area": "Satara Division",
+    "longitude": 74.003387,
+    "latitude": 17.696651,
+    "pm_value_used": 367.0,
+    "aqi": 416,
+    "category": "Severe"
+  },
+  "6254664": {
+    "city": "Bahadurgarh",
+    "state": "Haryana",
+    "area": "Jhajjar",
+    "longitude": 76.909423,
+    "latitude": 28.594004,
+    "pm_value_used": 42.48,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "6267806": {
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "area": "Guntur",
+    "longitude": 80.413302,
+    "latitude": 16.316553,
+    "pm_value_used": 38.41,
+    "aqi": 64,
+    "category": "Satisfactory"
+  },
+  "6299603": {
+    "city": "Muradnagar",
+    "state": "Uttar Pradesh",
+    "area": "Ghaziabad",
+    "longitude": 77.540243,
+    "latitude": 28.798171,
+    "pm_value_used": 70.41,
+    "aqi": 133,
+    "category": "Moderately Polluted"
+  },
+  "6217492": {
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "area": "Bhavnagar",
+    "longitude": 72.139056,
+    "latitude": 21.755417,
+    "pm_value_used": 19.51,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "6311325": {
+    "city": "Meerut",
+    "state": "Uttar Pradesh",
+    "area": "Meerut",
+    "longitude": 77.641018,
+    "latitude": 28.972677,
+    "pm_value_used": 167.01,
+    "aqi": 336,
+    "category": "Very Poor"
+  },
+  "6267808": {
+    "city": "Eluru",
+    "state": "Andhra Pradesh",
+    "area": "West Godavari",
+    "longitude": 81.092095,
+    "latitude": 16.711754,
+    "pm_value_used": 43.04,
+    "aqi": 71,
+    "category": "Satisfactory"
+  },
+  "6266794": {
+    "city": "Amarnath",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.199781,
+    "latitude": 19.215784,
+    "pm_value_used": 14.0,
+    "aqi": 23,
+    "category": "Good"
+  },
+  "6254663": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.168544,
+    "latitude": 28.540721,
+    "pm_value_used": 57.47,
+    "aqi": 96,
+    "category": "Satisfactory"
+  },
+  "6299494": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.34206,
+    "latitude": 28.61119,
+    "pm_value_used": 67.32,
+    "aqi": 123,
+    "category": "Moderately Polluted"
+  },
+  "3409312": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.6814488,
+    "latitude": 12.9352049,
+    "pm_value_used": 36.43,
+    "aqi": 60,
+    "category": "Satisfactory"
+  },
+  "6935": {
+    "city": "Hisar",
+    "state": "Haryana",
+    "area": "Hisar",
+    "longitude": 75.744941,
+    "latitude": 29.14056,
+    "pm_value_used": 104.62,
+    "aqi": 247,
+    "category": "Poor"
+  },
+  "6145551": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.21886,
+    "latitude": 28.5587,
+    "pm_value_used": 22.3,
+    "aqi": 37,
+    "category": "Good"
+  },
+  "6146655": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.6955288,
+    "latitude": 12.9178128,
+    "pm_value_used": 133.28366394042968,
+    "aqi": 310,
+    "category": "Very Poor"
+  },
+  "6146812": {
+    "city": "Araria",
+    "state": "Bihar",
+    "area": "Araria",
+    "longitude": 87.457768,
+    "latitude": 26.137989,
+    "pm_value_used": 39.2,
+    "aqi": 65,
+    "category": "Satisfactory"
+  },
+  "6148686": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.191651,
+    "latitude": 28.54246,
+    "pm_value_used": 60.5,
+    "aqi": 99,
+    "category": "Satisfactory"
+  },
+  "6167193": {
+    "city": "Awantipur",
+    "state": "Kashmir",
+    "area": "Pulwama",
+    "longitude": 74.96017,
+    "latitude": 34.06313,
+    "pm_value_used": 20.98,
+    "aqi": 35,
+    "category": "Good"
+  },
+  "6167988": {
+    "city": "Awantipur",
+    "state": "Kashmir",
+    "area": "Pulwama",
+    "longitude": 75.009712,
+    "latitude": 34.031606,
+    "pm_value_used": 41.51,
+    "aqi": 69,
+    "category": "Satisfactory"
+  },
+  "236": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.2005,
+    "latitude": 28.6341,
+    "pm_value_used": 149.0,
+    "aqi": 322,
+    "category": "Very Poor"
+  },
+  "6310": {
+    "city": "Bara Bazar",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.35724470000001,
+    "latitude": 22.5824635,
+    "pm_value_used": 112.0,
+    "aqi": 273,
+    "category": "Poor"
+  },
+  "6193521": {
+    "city": "Auroville",
+    "state": "Tamil Nadu",
+    "area": "Villupuram",
+    "longitude": 79.8180856,
+    "latitude": 12.0000374,
+    "pm_value_used": 81.83333333333334,
+    "aqi": 172,
+    "category": "Moderately Polluted"
+  },
+  "6194938": {
+    "city": "Ujjain",
+    "state": "Madhya Pradesh",
+    "area": "Ujjain",
+    "longitude": 75.800225,
+    "latitude": 23.1633321,
+    "pm_value_used": 23.0,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "6203210": {
+    "city": "Jammu",
+    "state": "Kashmir",
+    "area": "Jammu",
+    "longitude": 74.83177768465765,
+    "latitude": 32.740106329099916,
+    "pm_value_used": 26.9,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "5596": {
+    "city": "Tadepalle",
+    "state": "Andhra Pradesh",
+    "area": "Guntur",
+    "longitude": 80.5181667,
+    "latitude": 16.5150833,
+    "pm_value_used": 57.0,
+    "aqi": 95,
+    "category": "Satisfactory"
+  },
+  "6206921": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.6115928,
+    "latitude": 12.9370223,
+    "pm_value_used": 19.0,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "2503": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1581,
+    "latitude": 28.651699999999998,
+    "pm_value_used": 219.4,
+    "aqi": 377,
+    "category": "Very Poor"
+  },
+  "10487": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.316032,
+    "latitude": 28.646835,
+    "pm_value_used": 50.0,
+    "aqi": 83,
+    "category": "Satisfactory"
+  },
+  "10898": {
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "area": "Kozhikode",
+    "longitude": 75.78437099999998,
+    "latitude": 11.249077,
+    "pm_value_used": 50.0,
+    "aqi": 83,
+    "category": "Satisfactory"
+  },
+  "5540": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.1301247,
+    "latitude": 28.6670856,
+    "pm_value_used": 74.0,
+    "aqi": 145,
+    "category": "Moderately Polluted"
+  },
+  "10897": {
+    "city": "Patancheru",
+    "state": "Telangana",
+    "area": "Medak",
+    "longitude": 78.278777,
+    "latitude": 17.5184,
+    "pm_value_used": 60.0,
+    "aqi": 100,
+    "category": "Satisfactory"
+  },
+  "5558": {
+    "city": "Vandalur",
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "longitude": 80.1076538,
+    "latitude": 12.909916100000002,
+    "pm_value_used": 88.77,
+    "aqi": 196,
+    "category": "Moderately Polluted"
+  },
+  "985": {
+    "city": "Muzaffarpur",
+    "state": "Bihar",
+    "area": "Muzaffarpur",
+    "longitude": 85.4115,
+    "latitude": 26.0762,
+    "pm_value_used": 245.0,
+    "aqi": 396,
+    "category": "Very Poor"
+  },
+  "5759": {
+    "city": "Delhi",
+    "state": "NCT",
+    "area": "North Delhi",
+    "longitude": 77.29868,
+    "latitude": 28.67795,
+    "pm_value_used": 151.0,
+    "aqi": 324,
+    "category": "Very Poor"
+  },
+  "358454": {
+    "city": "Hosur",
+    "state": "Tamil Nadu",
+    "area": "Krishnagiri",
+    "longitude": 77.813811,
+    "latitude": 12.746998,
+    "pm_value_used": 46.9,
+    "aqi": 78,
+    "category": "Satisfactory"
+  },
+  "5744": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.2649067,
+    "latitude": 28.4997315,
+    "pm_value_used": 129.0,
+    "aqi": 307,
+    "category": "Very Poor"
+  },
+  "7850": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.84614,
+    "latitude": 19.0627,
+    "pm_value_used": 38.0,
+    "aqi": 63,
+    "category": "Satisfactory"
+  },
+  "223145": {
+    "city": "Hassan",
+    "state": "Karnataka",
+    "area": "Hassan",
+    "longitude": 76.12525800000002,
+    "latitude": 13.008556,
+    "pm_value_used": 10.0,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "716": {
+    "city": "Baranagar",
+    "state": "West Bengal",
+    "area": "North 24 Parganas",
+    "longitude": 88.3804,
+    "latitude": 22.627875,
+    "pm_value_used": 34.6,
+    "aqi": 57,
+    "category": "Satisfactory"
+  },
+  "10695": {
+    "city": "Pehowa",
+    "state": "Haryana",
+    "area": "Kurukshetra",
+    "longitude": 76.5623046,
+    "latitude": 30.032545399999997,
+    "pm_value_used": 83.38,
+    "aqi": 177,
+    "category": "Moderately Polluted"
+  },
+  "5763": {
+    "city": "Bawana",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.0332666,
+    "latitude": 28.8446874,
+    "pm_value_used": 173.0,
+    "aqi": 341,
+    "category": "Very Poor"
+  },
+  "5761": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.1605631,
+    "latitude": 28.7258373,
+    "pm_value_used": 127.0,
+    "aqi": 306,
+    "category": "Very Poor"
+  },
+  "8118": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.22445,
+    "latitude": 28.63576,
+    "pm_value_used": 64.0,
+    "aqi": 111,
+    "category": "Moderately Polluted"
+  },
+  "412": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.51321111,
+    "latitude": 13.0339,
+    "pm_value_used": 43.79,
+    "aqi": 73,
+    "category": "Satisfactory"
+  },
+  "6314": {
+    "city": "Farrukhnagar",
+    "state": "Haryana",
+    "area": "Gurgaon",
+    "longitude": 76.8496963,
+    "latitude": 28.4228859,
+    "pm_value_used": 169.69,
+    "aqi": 338,
+    "category": "Very Poor"
+  },
+  "11602": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Mumbai Suburban",
+    "longitude": 72.84643,
+    "latitude": 19.053536000000005,
+    "pm_value_used": 26.81,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "910": {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "area": "Kolkata",
+    "longitude": 88.36389499999996,
+    "latitude": 22.572646,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "11612": {
+    "city": "Artist Village",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 73.03250000000001,
+    "latitude": 19.044,
+    "pm_value_used": 70.84,
+    "aqi": 135,
+    "category": "Moderately Polluted"
+  },
+  "313410": {
+    "city": "Imphal",
+    "state": "Manipur",
+    "area": "Imphal East",
+    "longitude": 93.94230849999998,
+    "latitude": 24.8207389,
+    "pm_value_used": 4.0,
+    "aqi": 7,
+    "category": "Good"
+  },
+  "103": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.2494,
+    "latitude": 28.623499999999996,
+    "pm_value_used": 224.0,
+    "aqi": 380,
+    "category": "Very Poor"
+  },
+  "378": {
+    "city": "Saint Thomas Mount",
+    "state": "Tamil Nadu",
+    "area": "Kancheepuram",
+    "longitude": 80.19151667,
+    "latitude": 12.99711389,
+    "pm_value_used": 111.73,
+    "aqi": 272,
+    "category": "Poor"
+  },
+  "594": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.60921944,
+    "latitude": 12.912811110000002,
+    "pm_value_used": 45.62,
+    "aqi": 76,
+    "category": "Satisfactory"
+  },
+  "2587": {
+    "city": "Faridabad",
+    "state": "Haryana",
+    "area": "Faridabad District",
+    "longitude": 77.313775,
+    "latitude": 28.410122219999998,
+    "pm_value_used": 232.0,
+    "aqi": 386,
+    "category": "Very Poor"
+  },
+  "2585": {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.81349,
+    "latitude": 18.497484,
+    "pm_value_used": 66.0,
+    "aqi": 118,
+    "category": "Moderately Polluted"
+  },
+  "5753": {
+    "city": "Delhi",
+    "state": "NCT",
+    "area": "North Delhi",
+    "longitude": 77.3130982,
+    "latitude": 28.6687803,
+    "pm_value_used": 162.0,
+    "aqi": 332,
+    "category": "Very Poor"
+  },
+  "307463": {
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "area": "East District",
+    "longitude": 88.614099,
+    "latitude": 27.338529999999995,
+    "pm_value_used": 4.52,
+    "aqi": 8,
+    "category": "Good"
+  },
+  "5742": {
+    "city": "Delhi",
+    "state": "NCT",
+    "area": "North Delhi",
+    "longitude": 77.2846218,
+    "latitude": 28.6310495,
+    "pm_value_used": 67.0,
+    "aqi": 121,
+    "category": "Moderately Polluted"
+  },
+  "8916": {
+    "city": "Cochin",
+    "state": "Kerala",
+    "area": "Ernakulam",
+    "longitude": 76.321186,
+    "latitude": 9.969447,
+    "pm_value_used": 42.5,
+    "aqi": 70,
+    "category": "Satisfactory"
+  },
+  "12042": {
+    "city": "Alandi",
+    "state": "Maharashtra",
+    "area": "Pune Division",
+    "longitude": 73.892743,
+    "latitude": 18.675076,
+    "pm_value_used": 12.9,
+    "aqi": 22,
+    "category": "Good"
+  },
+  "5639": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1670103,
+    "latitude": 28.5646102,
+    "pm_value_used": 213.0,
+    "aqi": 372,
+    "category": "Very Poor"
+  },
+  "7044": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.186937,
+    "latitude": 28.563262000000005,
+    "pm_value_used": 268.0,
+    "aqi": 403,
+    "category": "Severe"
+  },
+  "5657": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.9302753,
+    "latitude": 26.8821003,
+    "pm_value_used": 111.9,
+    "aqi": 272,
+    "category": "Poor"
+  },
+  "2345": {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Jaipur",
+    "longitude": 75.7738777777777,
+    "latitude": 26.9738778,
+    "pm_value_used": 24.0,
+    "aqi": 40,
+    "category": "Good"
+  },
+  "10896": {
+    "city": "Manpur",
+    "state": "Madhya Pradesh",
+    "area": "Indore",
+    "longitude": 75.5213,
+    "latitude": 22.431,
+    "pm_value_used": 35.0,
+    "aqi": 58,
+    "category": "Satisfactory"
+  },
+  "10489": {
+    "city": "New Delhi",
+    "state": "NCT",
+    "area": "New Delhi",
+    "longitude": 77.24106,
+    "latitude": 28.628624,
+    "pm_value_used": 188.0,
+    "aqi": 352,
+    "category": "Very Poor"
+  },
+  "697": {
+    "city": "Haldia",
+    "state": "West Bengal",
+    "area": "Purba Medinipur",
+    "longitude": 88.109737,
+    "latitude": 22.06047,
+    "pm_value_used": 24.39,
+    "aqi": 41,
+    "category": "Good"
+  },
+  "2595": {
+    "city": "Nawabganj",
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "longitude": 80.3251749,
+    "latitude": 26.470308800000005,
+    "pm_value_used": 167.0,
+    "aqi": 336,
+    "category": "Very Poor"
+  },
+  "5762": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.1812947,
+    "latitude": 28.6957202,
+    "pm_value_used": 139.0,
+    "aqi": 315,
+    "category": "Very Poor"
+  },
+  "854": {
+    "city": "Chandrapur",
+    "state": "Maharashtra",
+    "area": "Chandrapur",
+    "longitude": 79.3,
+    "latitude": 19.95,
+    "pm_value_used": 91.0,
+    "aqi": 201,
+    "category": "Poor"
+  },
+  "361411": {
+    "city": "North Guwahati",
+    "state": "Assam",
+    "area": "Kamrup",
+    "longitude": 91.70046436,
+    "latitude": 26.2028636,
+    "pm_value_used": 22.7,
+    "aqi": 38,
+    "category": "Good"
+  },
+  "5593": {
+    "city": "Thane",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.9585188,
+    "latitude": 19.192056,
+    "pm_value_used": 16.45,
+    "aqi": 27,
+    "category": "Good"
+  },
+  "354": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.93874444,
+    "latitude": 26.84578611,
+    "pm_value_used": 224.64,
+    "aqi": 381,
+    "category": "Very Poor"
+  },
+  "7281": {
+    "city": "Palwal",
+    "state": "Haryana",
+    "area": "Palwal",
+    "longitude": 77.3320667,
+    "latitude": 28.1485564,
+    "pm_value_used": 17.2,
+    "aqi": 29,
+    "category": "Good"
+  },
+  "13": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.12,
+    "latitude": 28.744,
+    "pm_value_used": 451.0,
+    "aqi": 428,
+    "category": "Severe"
+  },
+  "306252": {
+    "city": "Begusarai",
+    "state": "Bihar",
+    "area": "Begusarai",
+    "longitude": 86.140169,
+    "latitude": 25.444266,
+    "pm_value_used": 356.0,
+    "aqi": 415,
+    "category": "Severe"
+  },
+  "2593": {
+    "city": "Masaurhi Buzurg",
+    "state": "Bihar",
+    "area": "Patna",
+    "longitude": 85.0755,
+    "latitude": 25.3636,
+    "pm_value_used": 203.0,
+    "aqi": 364,
+    "category": "Very Poor"
+  },
+  "270722": {
+    "city": "Buxar",
+    "state": "Bihar",
+    "area": "Buxar",
+    "longitude": 83.950942,
+    "latitude": 25.555605,
+    "pm_value_used": 39.0,
+    "aqi": 65,
+    "category": "Satisfactory"
+  },
+  "2463": {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "area": "Lucknow District",
+    "longitude": 80.99632778,
+    "latitude": 26.85272778,
+    "pm_value_used": 190.61,
+    "aqi": 354,
+    "category": "Very Poor"
+  },
+  "6941": {
+    "city": "Guwahati",
+    "state": "Assam",
+    "area": "Kamrup Metropolitan",
+    "longitude": 91.7362,
+    "latitude": 26.144499999999997,
+    "pm_value_used": 82.0,
+    "aqi": 173,
+    "category": "Moderately Polluted"
+  },
+  "5664": {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "area": "Krishna",
+    "longitude": 80.627767,
+    "latitude": 16.507014,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "5641": {
+    "city": "Karol Bagh",
+    "state": "NCT",
+    "area": "Central Delhi",
+    "longitude": 77.2005604,
+    "latitude": 28.6372688,
+    "pm_value_used": 134.0,
+    "aqi": 311,
+    "category": "Very Poor"
+  },
+  "2598": {
+    "city": "Airoli",
+    "state": "Maharashtra",
+    "area": "Thane",
+    "longitude": 72.9986,
+    "latitude": 19.1494,
+    "pm_value_used": 20.4,
+    "aqi": 34,
+    "category": "Good"
+  },
+  "2461": {
+    "city": "Chetput",
+    "state": "Tamil Nadu",
+    "area": "Chennai",
+    "longitude": 80.251932,
+    "latitude": 13.052371,
+    "pm_value_used": 73.4,
+    "aqi": 143,
+    "category": "Moderately Polluted"
+  },
+  "5743": {
+    "city": "Nangloi Jat",
+    "state": "NCT",
+    "area": "West Delhi",
+    "longitude": 77.0577492,
+    "latitude": 28.7407056,
+    "pm_value_used": 110.0,
+    "aqi": 266,
+    "category": "Poor"
+  },
+  "10916": {
+    "city": "Cochin",
+    "state": "Kerala",
+    "area": "Ernakulam",
+    "longitude": 76.281342,
+    "latitude": 9.985653,
+    "pm_value_used": 8.0,
+    "aqi": 13,
+    "category": "Good"
+  },
+  "8557": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "area": "Hyderabad",
+    "longitude": 78.45636,
+    "latitude": 17.38405,
+    "pm_value_used": 43.0,
+    "aqi": 71,
+    "category": "Satisfactory"
+  },
+  "12045": {
+    "city": "Nawabganj",
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "longitude": 80.235136,
+    "latitude": 26.511738999999995,
+    "pm_value_used": 15.4,
+    "aqi": 26,
+    "category": "Good"
+  },
+  "5547": {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "area": "Bangalore Urban",
+    "longitude": 77.6814488,
+    "latitude": 12.9352049,
+    "pm_value_used": 10.21,
+    "aqi": 17,
+    "category": "Good"
+  },
+  "2459": {
+    "city": "Malkajgiri",
+    "state": "Telangana",
+    "area": "Hyderabad",
+    "longitude": 78.47489,
+    "latitude": 17.443464,
+    "pm_value_used": 76.7,
+    "aqi": 155,
+    "category": "Moderately Polluted"
+  },
+  "11583": {
+    "city": "Agartala",
+    "state": "Tripura",
+    "area": "West Tripura",
+    "longitude": 91.2887362,
+    "latitude": 23.8628276,
+    "pm_value_used": 68.0,
+    "aqi": 125,
+    "category": "Moderately Polluted"
+  },
+  "6357": {
+    "city": "Pitampura",
+    "state": "NCT",
+    "area": "North West Delhi",
+    "longitude": 77.13102300000001,
+    "latitude": 28.674045000000003,
+    "pm_value_used": 68.0,
+    "aqi": 125,
+    "category": "Moderately Polluted"
+  },
+  "229730": {
+    "city": "Darbhanga",
+    "state": "Bihar",
+    "area": "Darbhanga",
+    "longitude": 85.89342,
+    "latitude": 26.151459999999997,
+    "pm_value_used": 408.0,
+    "aqi": 422,
+    "category": "Severe"
+  },
+  "2594": {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "area": "Hyderabad",
+    "longitude": 78.47469722,
+    "latitude": 17.42329722,
+    "pm_value_used": 53.0,
+    "aqi": 88,
+    "category": "Satisfactory"
+  },
+  "7777": {
+    "city": "Gulbarga",
+    "state": "Karnataka",
+    "area": "Gulbarga",
+    "longitude": 76.822628,
+    "latitude": 17.321993,
+    "pm_value_used": 54.0,
+    "aqi": 90,
+    "category": "Satisfactory"
+  },
+  "228299": {
+    "city": "Ghandinagar",
+    "state": "Gujarat",
+    "area": "Gandhinagar",
+    "longitude": 72.677768,
+    "latitude": 23.163798,
+    "pm_value_used": 25.2,
+    "aqi": 42,
+    "category": "Good"
+  },
+  "6920": {
+    "city": "Perundurai",
+    "state": "Tamil Nadu",
+    "area": "Erode",
+    "longitude": 77.552429,
+    "latitude": 11.258244,
+    "pm_value_used": 19.93,
+    "aqi": 33,
+    "category": "Good"
+  },
+  "313923": {
+    "city": "Imphal",
+    "state": "Manipur",
+    "area": "Imphal East",
+    "longitude": 93.92862179999999,
+    "latitude": 24.7524239,
+    "pm_value_used": 0.0,
+    "aqi": 0,
+    "category": "Good"
+  },
+  "5552": {
+    "city": "Rohtak",
+    "state": "Haryana",
+    "area": "Rohtak",
+    "longitude": 76.6205,
+    "latitude": 28.870083,
+    "pm_value_used": 120.32,
+    "aqi": 300,
+    "category": "Poor"
+  },
+  "6979": {
+    "city": "Baghpat",
+    "state": "Uttar Pradesh",
+    "area": "Baghpat",
+    "longitude": 77.21335699999999,
+    "latitude": 28.974801000000003,
+    "pm_value_used": 233.0,
+    "aqi": 387,
+    "category": "Very Poor"
+  },
+  "10609": {
+    "city": "Hunsur",
+    "state": "Karnataka",
+    "area": "Mysore",
+    "longitude": 76.37376,
+    "latitude": 12.210409999999998,
+    "pm_value_used": 19.15,
+    "aqi": 32,
+    "category": "Good"
+  },
+  "5505": {
+    "city": "Satna",
+    "state": "Madhya Pradesh",
+    "area": "Satna",
+    "longitude": 80.8574279,
+    "latitude": 24.5908256,
+    "pm_value_used": 11.0,
+    "aqi": 18,
+    "category": "Good"
+  },
+  "5611": {
+    "city": "Umarkhed",
+    "state": "Maharashtra",
+    "area": "Yavatmal",
+    "longitude": 77.6345232,
+    "latitude": 19.645324,
+    "pm_value_used": 66.0,
+    "aqi": 118,
+    "category": "Moderately Polluted"
+  },
+  "358455": {
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "area": "Salem",
+    "longitude": 78.125052,
+    "latitude": 11.679111,
+    "pm_value_used": 27.0,
+    "aqi": 45,
+    "category": "Good"
+  },
+  "5509": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.315809,
+    "latitude": 28.647622000000002,
+    "pm_value_used": 283.0,
+    "aqi": 405,
+    "category": "Severe"
+  },
+  "5766": {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Gautam Buddha Nagar",
+    "longitude": 77.2587868,
+    "latitude": 28.5639543,
+    "pm_value_used": 75.0,
+    "aqi": 149,
+    "category": "Moderately Polluted"
+  },
+  "1285345": {
+    "city": "Nawabganj",
+    "state": "Uttar Pradesh",
+    "area": "Kanpur",
+    "longitude": 80.2316,
+    "latitude": 26.5128,
+    "pm_value_used": 40.9,
+    "aqi": 68,
+    "category": "Satisfactory"
+  }
+}
