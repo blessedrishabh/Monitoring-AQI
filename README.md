@@ -83,6 +83,7 @@ GEMINI_API_KEY_2=your_gemini_api_key_2
 
 Simply visit the deployed app:
 👉 https://rishabh-b-4pycdnmzfry8dih5z2jby5.streamlit.app/
+(Use login info: email : "testcase@gmail.com", Password:"Password@123")
 
 **Option B: Run Locally**
 

@@ -51,7 +51,7 @@ def render_auth():
         if 'auth_mode' not in st.session_state:
             st.session_state.auth_mode = 'login'
 
-        tab_login, tab_signup = st.tabs(["📝 Sign Up", "🔑 Login"])
+        tab_login, tab_signup = st.tabs(["🔑 Login", "📝 Sign Up"])
 
         # --- LOGIN TAB ---
         with tab_login:
