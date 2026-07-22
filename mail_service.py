@@ -123,6 +123,7 @@ def generate_complaint_email(
     station_count: int = 0,
     user_name: str = "Concerned Citizen",
     user_email: str = "",
+    language: str = "English",
 ) -> dict:
     """
     Generate a formal AQI complaint email using LangChain + Gemini.
@@ -170,13 +171,15 @@ DATA FOR THE EMAIL:
 - Authority being addressed: {authority_name}
 {"- Historical baseline industrial emitters nearby (Climate TRACE/GEM estimates):" + chr(10) + factory_context if factory_context else "- No major historical industrial emitters identified in the immediate vicinity."}
 
-Write ONLY the email body text. No subject line, no metadata."""
+Write ONLY the email body text. No subject line, no metadata.
+{"IMPORTANT: Write the entire email in " + language + "." if language != "English" else ""}"""
 
     try:
         llm = _get_llm()
         response = llm.invoke(prompt)
         body = response.content.strip()
     except Exception as e:
+        print(f"[DEBUG] Gemini LLM failed: {e}")
         # Fallback template if LLM fails
         body = f"""Respected Sir/Madam,
 
