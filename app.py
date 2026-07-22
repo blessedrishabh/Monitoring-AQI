@@ -5,6 +5,7 @@ import math
 import folium
 from streamlit_folium import st_folium
 from dotenv import load_dotenv
+from datetime import datetime, timedelta, timezone
 
 load_dotenv()
 
@@ -341,7 +342,7 @@ def get_data_timestamp():
     """Returns a human-readable last-updated timestamp."""
     try:
         mtime = os.path.getmtime(AQI_DATA_PATH)
-        return datetime.fromtimestamp(mtime).strftime('%d %b %Y, %I:%M %p')
+        return datetime.fromtimestamp(mtime, tz=timezone(timedelta(hours=5, minutes=30))).strftime('%d %b %Y, %I:%M %p IST')
     except FileNotFoundError:
         return None
 
@@ -1056,6 +1057,11 @@ def render_city_detail():
             st.markdown("")
 
             if authority.get('email'):
+                language = st.selectbox(
+                        "📝 Email Language",
+                        ["English", "Hindi", "Tamil", "Bengali", "Marathi", "Telugu", "Kannada", "Gujarati"],
+                        key="email_language"
+                    )
                 if st.button("✉️  Generate Complaint Email", type="primary", use_container_width=True):
                     user = st.session_state.get('user', {})
                     with st.spinner("Generating email with AI..."):
@@ -1073,6 +1079,7 @@ def render_city_detail():
                                 station_count=len(stations),
                                 user_name=user.get('full_name', 'Concerned Citizen'),
                                 user_email=user.get('email', ''),
+                                language = language,
                             )
                             st.session_state.email_draft = result
                             

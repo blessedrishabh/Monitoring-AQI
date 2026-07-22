@@ -76,13 +76,22 @@ GEMINI_API_KEY_2=your_gemini_api_key_2
 ```
 *(Note: The system supports key rotation between multiple Gemini API keys for high availability).*
 
+
 ### 3. Run the Application
 
-```bash
-python -m streamlit run app.py
-```
+**Option A: Use the Live Hosted Version (Recommended)**
 
-The app will launch your browser at [http://localhost:8501](http://localhost:8501).
+Simply visit the deployed app:
+👉 https://rishabh-b-4pycdnmzfry8dih5z2jby5.streamlit.app/
+(Use login info: email : "testcase@gmail.com", Password:"Password@123")
+
+**Option B: Run Locally**
+
+```bash
+streamlit run app.py
+
+The app will launch your browser at http://localhost:8501.
+
 
 > **Note:** The `data/` directory already contains pre-processed JSON files for immediate use.
 
